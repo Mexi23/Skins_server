@@ -2,15 +2,19 @@
   
     "hero":"aamon",
 "IMAGES":"",
-  "ibasic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192410.png",
-  "ielite":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192417.png",
-  "istar":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758440.png",
-  "ivac":"https://github.com/Mexi23/mage-skins/raw/main/img_20230206_045636733.png",
+  "aaibasic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192410.png",
+  "aaielite":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192417.png",
+  "aaistar":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758440.png",
+  "aaivac":"https://github.com/Mexi23/mage-skins/raw/main/img_20230206_045636733.png",
+ "aaibackup":"https://github.com/Mexi23/GitInjector/raw/main/1000439796h.png",
+  
 "SCRIPT":"",
-  "aamonbackup":"https://github.com/Mexi23/UpDated/raw/main/Aamon%20backup.zip",
-  "cbasic":"https://github.com/Mexi23/Assasins_defS/raw/main/Aamon_def_basic.zip",
-  "celite":"https://github.com/Mexi23/DefAss/raw/main/Aamon_def_elite.zip",
-  "cstar":"https://github.com/Mexi23/DefAss/raw/main/aamon_def_star.zip",
-  "cvac":"",
+  "aacbackup":"https://github.com/Mexi23/UpDated/raw/main/Aamon%20backup.zip",
+  "aacbasic":"https://github.com/Mexi23/Assasins_defS/raw/main/Aamon_def_basic.zip",
+  "aacelite":"https://github.com/Mexi23/DefAss/raw/main/Aamon_def_elite.zip",
+  "aacstar":"https://github.com/Mexi23/DefAss/raw/main/aamon_def_star.zip",
+  "aacvac":"",
+
+  
 
 }
