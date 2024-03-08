@@ -23,14 +23,14 @@
 "vacant":"",
 
     "hero":"aamon",
-"IMAGES":"",
+
   "aaibasic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192410.png",
   "aaielite":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192417.png",
   "aaistar":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758440.png",
   "aaivac":"https://github.com/Mexi23/mage-skins/raw/main/img_20230206_045636733.png",
  "aaibackup":"https://github.com/Mexi23/GitInjector/raw/main/20240307_195532.png",
   
-"SCRIPT":"",
+
   "aacbackup":"https://github.com/Mexi23/UpDated/raw/main/Aamon%20backup.zip",
   "aacbasic":"https://github.com/Mexi23/Assasins_defS/raw/main/Aamon_def_basic.zip",
   "aacelite":"https://github.com/Mexi23/DefAss/raw/main/Aamon_def_elite.zip",
@@ -39,7 +39,7 @@
 
   "hero":"benedetta",
   
-"IMAGES":"",
+
  "beneibackup":"https://github.com/Mexi23/GitInjector/raw/main/20240307_195532.png",
   "beneibasic":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_020224347.jpg",
   "beneistar":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_020224314.jpg",
@@ -47,7 +47,7 @@
   "beneicollector":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_020224217.jpg",
   "beneiducati":"https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204712.png",
 
-"SCRIPT":"",
+
   "benecbackup":"https://github.com/Mexi23/NewBackupS/raw/main/benedetta_Def_backup.zip",
   "benecbasic":"https://github.com/Mexi23/ASSASINS/raw/main/BenedettaBasic.zip",
   "benecstar":"https://github.com/Mexi23/Assasins_defS/raw/main/benedetta_def_star.zip",
@@ -58,7 +58,7 @@
 
 
       "hero":"ling",
-"IMAGES":"",
+
   "lingibackup":"https://github.com/Mexi23/GitInjector/raw/main/20240307_195532.png",
   "lingibasic":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107884.png",
   "lingispecial":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107667.png",
@@ -68,7 +68,7 @@
   "lingidragon":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107734.png",
   "lingimworld":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107598.png",
 
-"SCRIPT":"",
+
   "lingcbackup":"https://github.com/Mexi23/Assasins_defS/raw/main/ling_def_backup.zip",
   "lingcbasic":"https://github.com/Mexi23/ASSASINS/raw/main/LingBasic.zip",
   "lingcspecial":"https://github.com/Mexi23/DefAss/raw/main/ling_def_special.zip",
@@ -78,9 +78,9 @@
   "lingcdragon":"https://github.com/Mexi23/Assasins_defS/raw/main/ling_def_dragon.zip",
   "lingcmworld":"https://github.com/Mexi23/Assasins_defS/raw/main/ling_def_Mworld.zip",
 
-  "hero":"selena",
 
-"IMAGES":"",
+
+
   "seleibackup":"https://github.com/Mexi23/GitInjector/raw/main/20240307_195532.png",
   "seleibasic":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195759038.png",
   "seleielite":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758821.png",
@@ -91,9 +91,8 @@
   "seleistun":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758687.png",
   "seleiabyss":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758630.png",
 
-  "SCRIPT":"",
+  
   "selecbackup":"https://github.com/Mexi23/NewBackupS/raw/main/selena_Def_backup.zip",
-  "selecbasic":"",
   "selecelite":"https://github.com/Mexi23/DefAss/raw/main/selena_def_elite.zip",
   "selecstar":"https://github.com/Mexi23/DefAss/raw/main/selena_def_starlight.zip",
   "selecepic":"https://github.com/Mexi23/DefAss/raw/main/selena_def_virus.zip",
