@@ -1,5 +1,7 @@
 {
 
+  // This is a comment in JavaScript
+console.log("Hello, world!"); // This is another comment
   
 "aamon":"https://github.com/Mexi23/Anime-skins/raw/main/img_20230114_200209931.png",
 "benedetta":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/img_20230119_215341148.png",
