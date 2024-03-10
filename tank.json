@@ -28,15 +28,15 @@
   "frirecharge":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214513.png",
 
   
-  "frcbackup":"",
-  "frcbasic":"",
-  "frcstar":"",
-  "frcspecial":"",
-  "frcepic":"",
-  "frcblazing":"",
-  "frclegend":"",
-  "frcseason":"",
-  "frcrecharge":"",
+  "frcbackup":"https://github.com/Mexi23/TankD/raw/main/franco_def_backup.zip",
+  "frcbasic":"https://github.com/Mexi23/Tank/raw/main/FrancoSpecialMasterchef.zip",
+  "frcstar":"https://github.com/Mexi23/Tank/raw/main/FrancoStarlight.zip",
+  "frcspecial":"https://github.com/Mexi23/Tank/raw/main/FrancoSpecialWheatfieldNightmare.zip",
+  "frcepic":"https://github.com/Mexi23/TankD/raw/main/franco_def_valhalla.zip",
+  "frcblazing":"https://github.com/Mexi23/TankD/raw/main/franco_def_blazing.zip",
+  "frclegend":"https://github.com/Mexi23/TankD/raw/main/franco_def_legend.zip",
+  "frcseason":"https://github.com/Mexi23/Tank/raw/main/FrancoSeason.zip",
+  "frcrecharge":"https://github.com/Mexi23/Tank/raw/main/FrancoRecharge.zip",
 
 
 "khibasic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_202272721488.png",
@@ -46,13 +46,13 @@
 "khivalentines": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214826.png",
 "khicollector": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214833.png",
 
-  "khcbackup":"",
-  "khcbasic":"",
-  "khcelite":"",
-  "khcstar":"",
-  "khciron":"",
-  "khcvalentines":"",
-  "khccollector":"",
+  "khcbackup":"https://github.com/Mexi23/TankD/raw/main/khufra_def_backup.zip",
+  "khcbasic":"https://github.com/Mexi23/Tank/raw/main/KhufraBasic.zip",
+  "khcelite":"https://github.com/Mexi23/Tank/raw/main/KhufraElite.zip",
+  "khcstar":"https://github.com/Mexi23/Tank/raw/main/KhufraStarlight.zip",
+  "khciron":"https://github.com/Mexi23/TankD/raw/main/khufra_def_EliteHook.zip",
+  "khcvalentines":"https://github.com/Mexi23/Tank/raw/main/KhufraSpecial.zip",
+  "khccollector":"https://github.com/Mexi23/TankD/raw/main/khufra_def_collector.zip",
 
 
   "akibasic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412173825.png",
@@ -65,15 +65,15 @@
   "akihalloween":"https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204834.png",
 
   
-  "akcbackup":"",
-  "akcbasic":"",
-  "akcelite":"",
-  "akcstar":"",
-  "akcmonk":"",
-  "akckungfu":"",
-  "akcepic":"",
-  "akcseason":"",
-  "akchalloween":"",
+  "akcbackup":"https://github.com/Mexi23/TankD/raw/main/akai_def_backup.zip",
+  "akcbasic":"Upcoming!",
+  "akcelite":"https://github.com/Mexi23/Tank/raw/main/AkaiEliteStreamRecluse.zip",
+  "akcstar":"https://github.com/Mexi23/Tank/raw/main/AkaiStarlight.zip",
+  "akcmonk":"https://github.com/Mexi23/Tank/raw/main/AkaiEliteMonk.zip",
+  "akckungfu":"https://github.com/Mexi23/TankD/raw/main/akai_def_kungfu.zip",
+  "akcepic":"https://github.com/Mexi23/TankD/raw/main/akai_def_epic.zip",
+  "akcseason":"https://github.com/Mexi23/Tank/raw/main/AkaiSeason.zip",
+  "akchalloween":"https://github.com/Mexi23/TankD/raw/main/akai_def_halloween.zip",
 
 
 
@@ -83,11 +83,11 @@
   "atistar":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412173830.png",
   "atimsc":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/img_20235618358.png",
 
-  "atcbackup":"",
-  "atcbasic":"",
-  "aticlite":"",
-  "atcstar":"",
-  "atcmsc":""
+  "atcbackup":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/Atlas_backupAll.zip",
+  "atcbasic":"Upcoming!",
+  "aticlite":"https://github.com/Mexi23/Tank/raw/main/AtlasElite.zip",
+  "atcstar":"https://github.com/Mexi23/Tank/raw/main/atlasstarlight.zip",
+  "atcmsc":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/Atlas_Default_MSC.zip"
 
 
 }
