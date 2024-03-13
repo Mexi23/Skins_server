@@ -88,9 +88,53 @@
 
   "atcbackup":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/Atlas_backupAll.zip",
   "atcbasic":"Upcoming!",
-  "aticlite":"https://github.com/Mexi23/Tank/raw/main/AtlasElite.zip",
+  "atclite":"https://github.com/Mexi23/Tank/raw/main/AtlasElite.zip",
   "atcstar":"https://github.com/Mexi23/Tank/raw/main/atlasstarlight.zip",
-  "atcmsc":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/Atlas_Default_MSC.zip"
+  "atcmsc":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/Atlas_Default_MSC.zip",
+
+
+  "baibasic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214045.png",
+  "baielite":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214052.png",
+  "baihalloween":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214116.png",
+
+  "bacbackup":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/barats_backupAll.zip",
+  "bacbasic":"Upcoming!",
+  "bacelite":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/barats_def_elite.zip",
+  "bachalloween":"https://github.com/Mexi23/Tank/raw/main/BaratsHalloween.zip",
+
+
+  "beibasic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214135.png",
+  "beleielite":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214143.png",
+  "beleispecial":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214248.png",
+
+  "becbackup":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/belerick_backupAll.zip",
+  "becbasic":"Upcoming!",
+  "becelite":"https://github.com/Mexi23/Tank/raw/main/BelerickElite.zip",
+  "becspecial":"https://github.com/Mexi23/Tank/raw/main/BelerickSpecialEmeraldGuardian.zip",
+
+  "edibasic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_202272721443.png",
+  "edicloud":"https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204840.png",
+  "edistar":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412173835.png",
+
+  "edcbackup":"https://github.com/Mexi23/TankD/raw/main/edith_def_backup.zip",
+  "edcbasic":"https://github.com/Mexi23/Tank/raw/main/EdithBasic.zip",
+  "edccloud":"https://github.com/Mexi23/TankD/raw/main/edith_def_beyond.zip",
+  "edcstar":"https://github.com/Mexi23/skins-with-logo/raw/main/edit%20STARLIGHT.zip",
+
+  "gaibasic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214533.png",
+  "gaielite":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214540.png",
+  "gaispark":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214554.png",
+  "gaiepic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214540.png",
+  "gaitide":"https://github.com/Mexi23/February/raw/main/img_202414155116.png",
+  
+
+  "gacbackup":"https://github.com/Mexi23/TankD/raw/main/gatot_def_backup.zip",
+  "gacbasic":"Upcoming!",
+  "gacelite":"https://github.com/Mexi23/Tank/raw/main/GatotkacaEliteArhatKing.zip",
+  "gacspark":"https://github.com/Mexi23/Tank/raw/main/GatotkacaEliteSpark.zip",
+  "gacepic":"https://github.com/Mexi23/TankD/raw/main/gatot_def_epic.zip",
+  "gactide":"https://github.com/Mexi23/February/raw/main/gatot_def_Tepic.zip"
+  
 
 
 }
