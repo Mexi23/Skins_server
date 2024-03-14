@@ -132,7 +132,111 @@
   "gacspark":"https://github.com/Mexi23/Tank/raw/main/GatotkacaEliteSpark.zip",
   "gacepic":"https://github.com/Mexi23/TankD/raw/main/gatot_def_epic.zip",
   "gactide":"https://github.com/Mexi23/February/raw/main/gatot_def_Tepic.zip"
+
   
 
+  "glibasic":"",
+  "glispecial":"",
 
+  "glcbackup":"",
+  "glcbasic":"",
+  "glcspecial":"",
+
+
+  "gribasic":"",
+  "grielite":"",
+  "gristar":"",
+  "grivenom":"",
+  "griseason":"",
+  "griepic":"",
+
+  "grcbackup":"",
+  "grcbasic":"",
+  "grcelite":"",
+  "grcstar":"",
+  "grcvenom":"",
+  "grcseason":"",
+  "grcepic":"",
+  
+
+  "hyispecial":"",
+  "hyielite":"",
+  "hyiseason":"",
+  "hyiepic":"",
+
+  "hycbackup":"",
+  "hycspecial":"",
+  "hycelite":"",
+  "hycseason":"",
+  "hycepic":"",
+
+
+  
+  "jsibasic":"",
+  "jsielite":"",
+  "jsispecial":"",
+  "jsisaber":"",
+  "jsianniversary":"",
+  "jsiepic":"",
+  "jsitransformer":"",
+
+  "jscbackup":"",
+  "jscbasic":"",
+  "jscelite":"",
+  "jscspecial":"",
+  "jscsaber":"",
+  "jscanniversary":"",
+  "jscepic":"",
+  "jsctransformer":"",
+
+
+
+  "miibasic":"",
+  "miielite":"",
+  "miispecial":"",
+  "miiseason":"",
+  "miizodiac":"",
+
+  "micbackup":"",
+  "micbasic":"",
+  "micelite":"",
+  "micspecial":"",
+  "micseason":"",
+  "miczodiac":"",
+
+
+  "tiibasic":"",
+  "tiielite":"",
+  "tiistar":"",
+  "tiispecial":"",
+  "tiilightborn":"",
+  "tiiseason":"",
+
+  "ticbackup":"",
+  "ticbasic":"",
+  "ticelite":"",
+  "ticstar":"",
+  "ticspecial":"",
+  "ticlightborn":"",
+  "ticseason":"",
+
+
+  
+  "uribasic":"",
+  "uripecial":"",
+  "uripinball":"",
+  "uricelestial":"",
+  "uriseason":"",
+  "uriepic":"",
+
+  "urcbackup":"",
+  "urcbasic":"",
+  "urcpecial":"",
+  "urcpinball":"",
+  "urccelestial":"",
+  "urcseason":"",
+  "urcepic":"",
+
+
+  
 }
