@@ -138,11 +138,12 @@
   "glibasic":"https://github.com/Mexi23/skins-with-logo/raw/main/img_20230327_224528736.png",
   "glispecial":"https://github.com/Mexi23/skins-with-logo/raw/main/img_20230327_224348934.png",
 
-  "glcbackup":"",
-  "glcbasic":"",
-  "glcspecial":"",
+  "glcbackup":"https://github.com/Mexi23/skins-with-logo/raw/main/gloo%20bakcup.zip",
+  "glcbasic":"Upcoming!",
+  "glcspecial":"https://github.com/Mexi23/skins-with-logo/raw/main/gloo%20special.zip",
 
 
+  
   "gribasic":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/img_20235618499.png",
   "grielite":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214615.png",
   "gristar":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214630.png",
@@ -150,13 +151,13 @@
   "griseason":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214645.png",
   "griepic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214637.png",
 
-  "grcbackup":"",
-  "grcbasic":"",
-  "grcelite":"",
-  "grcstar":"",
-  "grcvenom":"",
-  "grcseason":"",
-  "grcepic":"",
+  "grcbackup":"https://github.com/Mexi23/TankD/raw/main/grock_def_backup.zip",
+  "grcbasic":"Upcoming!",
+  "grcelite":"https://github.com/Mexi23/Tank/raw/main/GrockElite.zip",
+  "grcstar":"https://github.com/Mexi23/Tank/raw/main/GrockStarlight.zip",
+  "grcvenom":"https://github.com/Mexi23/TankD/raw/main/grock_def_venom.zip",
+  "grcseason":"https://github.com/Mexi23/Tank/raw/main/GrockSeason.zip",
+  "grcepic":"https://github.com/Mexi23/TankD/raw/main/grock_def_rinho.zip",
   
 
   "hyispecial":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_202272722325.png",
@@ -164,11 +165,11 @@
   "hyiseason":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_202272721474.png",
   "hyiepic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214710.png",
 
-  "hycbackup":"",
-  "hycspecial":"",
-  "hycelite":"",
-  "hycseason":"",
-  "hycepic":"",
+  "hycbackup":"https://github.com/Mexi23/TankD/raw/main/hylos_def_backup.zip",
+  "hycspecial":"https://github.com/Mexi23/Tank/raw/main/HylosSpecial.zip",
+  "hycelite":"https://github.com/Mexi23/Tank/raw/main/HylosElite.zip",
+  "hycseason":"Upcoming!",
+  "hycepic":"https://github.com/Mexi23/TankD/raw/main/hylos_def_epic.zip",
 
 
   
@@ -180,14 +181,14 @@
   "jsiepic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214745.png",
   "jsitransformer":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214757.png",
 
-  "jscbackup":"",
-  "jscbasic":"",
-  "jscelite":"",
-  "jscspecial":"",
-  "jscsaber":"",
-  "jscanniversary":"",
-  "jscepic":"",
-  "jsctransformer":"",
+  "jscbackup":"https://github.com/Mexi23/Def_Sounds/raw/main/Johnson_backup.zip",
+  "jscbasic":"Upcoming!",
+  "jscelite":"https://github.com/Mexi23/TankD/raw/main/johnson_def_jeep.zip",
+  "jscspecial":"https://github.com/Mexi23/TankD/raw/main/johnson_def_specDeath.zip",
+  "jscsaber":"https://github.com/Mexi23/TankD/raw/main/johnson_def_saber.zip",
+  "jscanniversary":"https://github.com/Mexi23/TankD/raw/main/johnson_def_starblazer.zip",
+  "jscepic":"https://github.com/Mexi23/Def_Sounds/raw/main/Johnson_def_wreck.zip",
+  "jsctransformer":"https://github.com/Mexi23/TankD/raw/main/johnson_def_trans.zip",
 
 
 
@@ -197,12 +198,12 @@
   "miiseason":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214850.png",
   "miizodiac":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727224133.png",
 
-  "micbackup":"",
-  "micbasic":"",
-  "micelite":"",
-  "micspecial":"",
-  "micseason":"",
-  "miczodiac":"",
+  "micbackup":"https://github.com/Mexi23/TankD/raw/main/mino_def_backup.zip",
+  "micbasic":"https://github.com/Mexi23/Tank/raw/main/MinotaurElite.zip",
+  "micelite":"Upcoming!",
+  "micspecial":"https://github.com/Mexi23/November/raw/main/minotaur_def_special.zip",
+  "micseason":"https://github.com/Mexi23/Tank/raw/main/MinotaurSeason.zip",
+  "miczodiac":"https://github.com/Mexi23/TankD/raw/main/minorau_def_zodiac.zip",
 
 
   "tiibasic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_202272721490.png",
@@ -212,13 +213,13 @@
   "tiilightborn":"https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204850.png",
   "tiiseason":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214910.png",
 
-  "ticbackup":"",
-  "ticbasic":"",
-  "ticelite":"",
-  "ticstar":"",
-  "ticspecial":"",
-  "ticlightborn":"",
-  "ticseason":"",
+  "ticbackup":"https://github.com/Mexi23/Backups/raw/main/TigrealBackup.zip",
+  "ticbasic":"https://github.com/Mexi23/Tank/raw/main/TigrealEliteDarkGuardian.zip",
+  "ticelite":"https://github.com/Mexi23/Tank/raw/main/TigrealEliteFallenGuard.zip",
+  "ticstar":"https://github.com/Mexi23/Tank/raw/main/TigrealStarlight.zip",
+  "ticspecial":"https://github.com/Mexi23/Tank/raw/main/TigrealSpecial.zip",
+  "ticlightborn":"https://github.com/Mexi23/TankD/raw/main/tig_def_LB.zip",
+  "ticseason":"https://github.com/Mexi23/Tank/raw/main/TigrealSeason.zip",
 
 
   
@@ -229,13 +230,13 @@
   "uriseason":"https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/img_2023570747.png",
   "uriepic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214943.png",
 
-  "urcbackup":"",
-  "urcbasic":"",
-  "urcpecial":"",
-  "urcpinball":"",
-  "urccelestial":"",
-  "urcseason":"",
-  "urcepic":""
+  "urcbackup":"https://github.com/Mexi23/TankD/raw/main/ura_def_backup.zip",
+  "urcbasic":"Upcoming!",
+  "urcpecial":"https://github.com/Mexi23/Tank/raw/main/UranusSpecialMechProtector.zip",
+  "urcpinball":"https://github.com/Mexi23/TankD/raw/main/ura_def_pinball.zip",
+  "urccelestial":"https://github.com/Mexi23/TankD/raw/main/ura_def_celestial.zip",
+  "urcseason":"Upcoming!",
+  "urcepic":"https://github.com/Mexi23/TankD/raw/main/ura_def_videogame.zip"
 
 
   
