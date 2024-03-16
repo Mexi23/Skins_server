@@ -200,13 +200,83 @@
   "mocabyss":"https://github.com/Mexi23/Mm/raw/main/moscov_def_abyss.zip",
   "mocspear":"https://github.com/Mexi23/skins-with-logo/raw/main/moscov%20STARLIGHT.zip",
   "mocepic":"https://github.com/Mexi23/Marksman/raw/main/MoskovEpicTwilightDragon.zip",
-  "mocseason":"https://github.com/Mexi23/Marksman/raw/main/MoskovSeason.zip"
+  "mocseason":"https://github.com/Mexi23/Marksman/raw/main/MoskovSeason.zip",
+
+
+
+  "roibasic":"",
+  "roielite":"",
+  "roistar":"",
+  "roispecial":"",
+  "roiepic":"",
+  "roim3":"",
+  "roiprime":"",
+  "roitransformer":"",
+
+  "rocbackup":"",
+  "rocbasic":"",
+  "rocelite":"",
+  "rocstar":"",
+  "rocspecial":"",
+  "rocepic":"",
+  "rocm3":"",
+  "rocprime":"",
+  "roctransformer":"",
+
+
 
   
+    "ysibasic":"",
+  "ysielite":"",
+  "ysistar":"",
+ "ysiagent":"",
+  "ysicollector":"",
+  "ysiepic":"",
 
   
+  "yscbackup":"",
+    "yscbasic":"",
+  "yscelite":"",
+  "yscstar":"",
+ "yscagent":"",
+  "ysccollector":"",
+  "yscepic":"",
+
+  
+    "broibasic":"",
+  "broistar":"",
+ "broistun":"",
+ "broimpl":"",
+  "broicollector":"",
+
+ "brocbackup":"",
+  "brocbasic":"",
+  "brocstar":"",
+ "brocstun":"",
+ "brocmpl":"",
+  "broccollector":"",
 
 
+
+    "bribasic":"",
+  "brielite":"",
+  "bristar":"",
+ "brispecial":"",
+ "brifalcon":"",
+"brihero":"",
+  "brineymar":"",
+  "brihalo":"",
+
+
+   "brcbackup":"",
+  "brcbasic":"",
+  "brcelite":"",
+  "brcstar":"",
+ "brcspecial":"",
+ "brcfalcon":"",
+"brchero":"",
+  "brcneymar":"",
+  "brchalo":"",
 
 
   
