@@ -356,12 +356,12 @@
   "naicollector":"https://github.com/Mexi23/new-added/raw/main/img_20230307_235933057.png",
 
   
- "nacbackup":"",
-  "nacbasic":"",
-  "nacelite":"",
-  "nacstar":"",
- "nacspecial":"",
-  "naccollector":"",
+ "nacbackup":"https://github.com/Mexi23/Mm/raw/main/nathan_def_backup.zip",
+  "nacbasic":"https://github.com/Mexi23/Marksman/raw/main/NatanBasic.zip",
+  "nacelite":"https://github.com/Mexi23/Marksman/raw/main/NatanElite.zip",
+  "nacstar":"https://github.com/Mexi23/Marksman/raw/main/NatanStarlight.zip",
+ "nacspecial":"https://github.com/Mexi23/JanuaryV2/raw/main/nathan_def_special.zip",
+  "naccollector":"https://github.com/Mexi23/Mm/raw/main/nathan_def_collector.zip",
 
 
   "poibasic":"https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729112236.png",
@@ -369,11 +369,11 @@
   "poitransformer":"https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729112248.png",
   "poicollector":"https://github.com/Mexi23/November/raw/main/img_20231021212641.png",
   
- "pocbackup":"",
-  "pocbasic":"",
-  "pocelite":"",
-  "poctransformer":"",
-  "poccollector":"",
+ "pocbackup":"https://github.com/Mexi23/Mm/raw/main/popol_def_backup.zip",
+  "pocbasic":"Upcoming!",
+  "pocelite":"https://github.com/Mexi23/Marksman/raw/main/PopolElite.zip",
+  "poctransformer":"https://github.com/Mexi23/Mm/raw/main/popol_def_trans.zip",
+  "poccollector":"https://github.com/Mexi23/November/raw/main/popol_def_collector.zip",
 
 
 
@@ -385,14 +385,14 @@
   "waicollector":"https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729112336.png",
   "waid11":"https://github.com/Mexi23/November/raw/main/img_20231021212646.png",
    
-  "wacbackup":"",
-  "wacbasic":"",
-  "wacelite":"",
-  "wacstar":"",
-  "wacmpl":"",
-  "wacmworld":"",
-  "waccollector":"",
-   "wacd11":"",
+  "wacbackup":"https://github.com/Mexi23/Mm/raw/main/wan_def_backup.zip",
+  "wacbasic":"https://github.com/Mexi23/Marksman/raw/main/WanwanBasic.zip",
+  "wacelite":"https://github.com/Mexi23/Marksman/raw/main/WanwanElite.zip",
+  "wacstar":"https://github.com/Mexi23/Marksman/raw/main/WanwanStarlight.zip",
+  "wacmpl":"https://github.com/Mexi23/Marksman/raw/main/WanwanMPL.zip",
+  "wacmworld":"https://github.com/Mexi23/Mm/raw/main/wan_def_mworld.zip",
+  "waccollector":"https://github.com/Mexi23/Mm/raw/main/wan_def_collec.zip",
+   "wacd11":"https://github.com/Mexi23/November/raw/main/wanwan_def_11.zip",
 
     "cliiseason":"",
   "cliielite":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202272823232.png",
@@ -403,23 +403,23 @@
   "cliicollector":"https://github.com/Mexi23/skins-with-logo/raw/main/img_20230320_235756802.png",
   "cliivalentine":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202272981144.png",
 
-   "clicbackup":"",
-  "clicseason":"",
-  "clicelite":"",
-  "clicstar":"",
- "clicspecial":"",
- "clicm2":"",
-  "clicoperator":"",
-  "cliccollector":"",
-  "clicvalentines":"",
+   "clicbackup":"https://github.com/Mexi23/Mm/raw/main/clint_def_backup.zip",
+  "clicseason":"https://github.com/Mexi23/Marksman/raw/main/ClintSeason.zip",
+  "clicelite":"https://github.com/Mexi23/Marksman/raw/main/ClintElite.zip",
+  "clicstar":"https://github.com/Mexi23/Marksman/raw/main/ClintStarlightRockAndRoll.zip",
+ "clicspecial":"https://github.com/Mexi23/Marksman/raw/main/ClintSpecialBadmintonChampion.zip",
+ "clicm2":"https://github.com/Mexi23/Mm/raw/main/clint_def_m2.zip",
+  "clicoperator":"https://github.com/Mexi23/Marksman/raw/main/ClintStarlightOperatorCL.zip",
+  "cliccollector":"https://github.com/Mexi23/Mm/raw/main/clint_def_collector.zip",
+  "clicvalentines":"https://github.com/Mexi23/Marksman/raw/main/ClintSpecialGunsAndRoses.zip",
 
   "ixibasic":"https://github.com/Mexi23/March/raw/main/img_202423173118.png",
   "ixistar":"https://github.com/Mexi23/March/raw/main/img_202423173122.png",
   
 
- "ixcbackup":"",
-  "ixcbasic":"",
-  "ixcstar":"",
+ "ixcbackup":"https://github.com/Mexi23/March/raw/main/ixia_def_backup.zip",
+  "ixcbasic":"https://github.com/Mexi23/March/raw/main/ixia_def_basic.zip",
+  "ixcstar":"https://github.com/Mexi23/March/raw/main/ixia_def_star.zip",
 
   
   
