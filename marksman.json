@@ -204,21 +204,23 @@
 
 
 
-  "roibasic":"",
-  "roielite":"",
-  "roistar":"",
-  "roispecial":"",
-  "roiepic":"",
-  "roim3":"",
-  "roiprime":"",
-  "roitransformer":"",
+  "roibasic":"https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192632.png",
+  "roistar":"https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192659.png",
+  "roicyborg":"https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192713.png",
+  "roiepic":"https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192646.png",
+  "roiphantom":"https://github.com/Mexi23/skins-with-logo/raw/main/img_20230327_222916645.png",
+  "roim3":"https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192719.png",
+  "roiprime":"https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192725.png",
+  "roitransformer":"https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192734.png",
 
+  
   "rocbackup":"",
   "rocbasic":"",
-  "rocelite":"",
+  "roccyborg":"",
   "rocstar":"",
   "rocspecial":"",
   "rocepic":"",
+  "rocphantom":"",
   "rocm3":"",
   "rocprime":"",
   "roctransformer":"",
@@ -226,57 +228,57 @@
 
 
   
-    "ysibasic":"",
-  "ysielite":"",
-  "ysistar":"",
- "ysiagent":"",
-  "ysicollector":"",
-  "ysiepic":"",
+    "ysibasic":"https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729112355.png",
+  "ysielite":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202272911245.png",
+  "ysistar":"https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729112420.png",
+ "ysiagent":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202272911240.png",
+  "ysicollector":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202272913271.png",
+  "ysiepic":"https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729132656.png",
 
   
-  "yscbackup":"",
-    "yscbasic":"",
-  "yscelite":"",
-  "yscstar":"",
- "yscagent":"",
-  "ysccollector":"",
-  "yscepic":"",
+  "yscbackup":"https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
+    "yscbasic":"Upcoming!",
+  "yscelite":"https://github.com/Mexi23/Marksman/raw/main/YSSEliteRoguishRanger.zip",
+  "yscstar":"https://github.com/Mexi23/Marksman/raw/main/YSSStarlight.zip",
+ "yscagent":"https://github.com/Mexi23/Marksman/raw/main/YSSEliteApocalypseAgent.zip",
+  "ysccollector":"https://github.com/Mexi23/Mm/raw/main/yss_def_collec.zip",
+  "yscepic":"https://github.com/Mexi23/Def_Sounds/raw/main/yss_def_epic.zip",
 
   
-    "broibasic":"",
-  "broistar":"",
- "broistun":"",
- "broimpl":"",
-  "broicollector":"",
+    "broibasic":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202341325632.png",
+  "broistar":"https://github.com/Mexi23/marksman-images/raw/main/img_202272815932.png",
+ "broistun":"https://github.com/Mexi23/marksman-images/raw/main/img_202272815927.png",
+ "broimpl":"https://github.com/Mexi23/new-added/raw/main/img_20230308_003125697.png",
+  "broicollector":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202272815937.png",
 
- "brocbackup":"",
-  "brocbasic":"",
-  "brocstar":"",
- "brocstun":"",
- "brocmpl":"",
-  "broccollector":"",
-
-
-
-    "bribasic":"",
-  "brielite":"",
-  "bristar":"",
- "brispecial":"",
- "brifalcon":"",
-"brihero":"",
-  "brineymar":"",
-  "brihalo":"",
+ "brocbackup":"https://github.com/Mexi23/NewBackupS/raw/main/brody_Def_backup.zip",
+  "brocbasic":"https://github.com/Mexi23/Marksman/raw/main/BrodyBasic.zip",
+  "brocstar":"https://github.com/Mexi23/Marksman/raw/main/BrodyStarlight.zip",
+ "brocstun":"https://github.com/Mexi23/Mm/raw/main/brody_def_stun.zip",
+ "brocmpl":"https://github.com/Mexi23/new-added/raw/main/brodyMPL.zip",
+  "broccollector":"https://github.com/Mexi23/Def_Sounds/raw/main/brody_def_collector.zip",
 
 
-   "brcbackup":"",
-  "brcbasic":"",
-  "brcelite":"",
-  "brcstar":"",
- "brcspecial":"",
- "brcfalcon":"",
-"brchero":"",
-  "brcneymar":"",
-  "brchalo":"",
+
+    "bribasic":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202272815849.png",
+  "brielite":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202272815859.png",
+  "bristar":"https://github.com/Mexi23/JanuaryV2/raw/main/img_20240593943.png",
+ "brispecial":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202272815854.png",
+ "brifalcon":"https://github.com/Mexi23/MmImageLQ/raw/main/img_20227281594.png",
+"brihero":"https://github.com/Mexi23/MmImageLQ/raw/main/img_20227281599.png",
+  "brineymar":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202341323352.png",
+  "brihalo":"https://github.com/Mexi23/MmImageLQ/raw/main/img_202341323358.png",
+
+
+   "brcbackup":"https://github.com/Mexi23/NewBackupS/raw/main/bruno_Def_backup.zip",
+  "brcbasic":"https://github.com/Mexi23/Def_Sounds/raw/main/bruno_def_vanguardElite.zip",
+  "brcelite":"https://github.com/Mexi23/Def_Sounds/raw/main/bruno_def_street.zip",
+  "brcstar":"https://github.com/Mexi23/JanuaryV2/raw/main/bruno_def_starlight.zip",
+ "brcspecial":"https://github.com/Mexi23/Def_Sounds/raw/main/bruno_def_djspec.zip",
+ "brcfalcon":"https://github.com/Mexi23/Def_Sounds/raw/main/bruno_def_falcon.zip",
+"brchero":"https://github.com/Mexi23/Def_Sounds/raw/main/bruno_def_hero.zip",
+  "brcneymar":"https://github.com/Mexi23/Def_Sounds/raw/main/bruno_def_neymar.zip",
+  "brchalo":"https://github.com/Mexi23/Def_Sounds/raw/main/bruno_def_halostrike.zip"
 
 
   
