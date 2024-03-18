@@ -122,8 +122,37 @@
   "flcsanrio":"",
 
 
+
+  
+ "loibasic":"",
+  "loielite":"",
+  "loilunar":"",
+ "loispecial":"",
+
+  
+ "locbackup":"",
+  "locbasic":"",
+  "locelite":"",
+  "loclunar":"",
+ "locspecial":"",
+
+
+
+  "maibasic":"",
+  "maielite":"",
+  "maimpl":"",
+
+  
+  "macbackup":"",
+  "macbasic":"",
+  "macelite":"",
+  "macmpl":"",
   
 
+  
+
+
+  
 
   
 }
