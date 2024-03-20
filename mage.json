@@ -268,8 +268,8 @@
 "lycneo":"",
 
 
-  "noibasic":"", 
- "noistar":"",
+  "noibasic":"https://github.com/Mexi23/mage-skin-to-skin/raw/main/img_2023421183726.png", 
+ "noistar":"https://github.com/Mexi23/February/raw/main/img_202414155139.png",
 
 "nocbackup":"",
 "nocbasic":"", 
@@ -361,6 +361,43 @@
 "valencstar":"",
 
 
+  "valiibasic":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202272923428.png", 
+ "valiistar":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234222.png",
+ "valiispecial":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234216.png", 
+  "valiilegend":"https://github.com/Mexi23/mage-skins/raw/main/img_2022729234238.png",
+"valiicollector":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234232.png",
+"valiidragon":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234227.png",
+"valiileo":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202341315426.png",
+ "valiiphoenix":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202341315431.png",
+
+  "valicbackup":"",
+"valicbasic":"", 
+ "valicstar":"",
+ "valicspecial":"", 
+  "valiclegend":"",
+"valiccollector":"",
+"valicdragon":"",
+"valicleo":"",
+  "valicphoenix":"",
+  
+
+"veibasic":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234251.png", 
+ "veistar":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202341315448.png",
+"veiepic":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234257.png",
+ "veiseason":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202272923434.png",
+"veicollector":"https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204635.png",
+  
+  "vecbackup":"",
+"vecbasic":"", 
+ "vecstar":"",
+"vecepic":"",
+ "vecseason":"",
+"veccollector":"",
+  
+
+  
+
+  
 "yvibasic":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234337.png", 
 "yvielite":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234342.png",
 
