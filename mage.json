@@ -179,12 +179,168 @@
   "eucatomic":""
 
 
+  "goibasic":"", 
+  "goichristmas":"",
+"goiannual":"",
+ "goiseason":"",
+  "goilegend":"",
+
+  "gocbackup":"",
+"gocbasic":"", 
+  "gocchristmas":"",
+"gocannual":"",
+ "gocseason":"",
+  "goclegend":"",
   
 
 
+  "haibasic":"", 
+"haielite":"",
+ "hailunar":"",
+ "hailightborn":"", 
+"haiepic":"",
+ "haid515":"",
+"haichristmas":"",
+  
+  "hacbackup":"",
+"hacbasic":"", 
+"hacelite":"",
+ "haclunar":"",
+ "haclightborn":"", 
+"hacepic":"",
+ "hacd515":"",
+"hacchristmas":"",
+
+
+  
+  "kaibasic":"", 
+"kaimpl":"",
+ "kaispecial":"", 
+
+"kacbackup":"",
+"kacbasic":"", 
+"kacmpl":"",
+ "kacspecial":"", 
 
   
 
+  "luibasic":"", 
+"luielite":"",
+ "luistar":"",
+ "luidawn":"", 
+"luiepic":"",
+ "luieyes":"",
+  "luilegend":"",
+"luizodiac":"",
+
+  "lucbackup":"",
+"lucbasic":"", 
+"lucelite":"",
+ "lucstar":"",
+ "lucdawn":"", 
+"lucepic":"",
+ "luceyes":"",
+  "luclegend":"",
+"luczodiac":"",
+
+
+  
+  
+"lyibasic":"", 
+"lyielite":"",
+ "lyifuture":"",
+ "lyispecial":"", 
+"lyineo":"",
+
+"lycbackup":"",
+"lycbasic":"", 
+"lycelite":"",
+ "lycfuture":"",
+ "lycspecial":"", 
+"lycneo":"",
+
+
+  "noibasic":"", 
+ "noistar":"",
+
+"nocbackup":"",
+"nocbasic":"", 
+ "nocstar":"",
+
+
+  "luoibasic":"", 
+"luoielite":"",
+ "luoistar":"",
+"luoiepic":"",
+  "luoilunar":"",
+"luoicollector":"",
+
+"luocbackup":"",
+"luocbasic":"", 
+"luocelite":"",
+ "luocstar":"",
+"luocepic":"",
+  "luoclunar":"",
+"luoccollector":"",
+
+
+
+"odibasic":"", 
+"odispecial":"", 
+"odiepic":"",
+"odilunar":"",
+"odicreate":"",
+"odizodiac":"",
+"odichristmas":"",
+
+"odcbackup":"",
+"odcbasic":"", 
+"odcspecial":"", 
+"odcepic":"",
+"odclunar":"",
+"odccreate":"",
+"odczodiac":"",
+"odcchristmas":"",
+
+
+  
+"phibasic":"", 
+"phielite":"",
+ "phistar":"",
+ "phispecial":"", 
+"phiepic":"",
+ "phiseason":"",
+  "phiindigo":"",
+"phicollector":"",
+"phimsc":"",
+
+  
+"phcbackup":"",
+"phcbasic":"", 
+"phcelite":"",
+ "phcstar":"",
+ "phcspecial":"", 
+"phcepic":"",
+ "phcseason":"",
+  "phcindigo":"",
+"phccollector":"",
+"phcmsc":"",
+  
+
+  "valeibasic":"", 
+"valeielite":"",
+ "valeistar":"",
+"valeiepic":"",
+"valeicollector":"",
+  "valeihero":"",
+  
+"valecbackup":"",
+"valecbasic":"", 
+"valecelite":"",
+ "valecstar":"",
+"valecepic":"",
+"valeccollector":"",
+  "valechero":"",
 
 
   
