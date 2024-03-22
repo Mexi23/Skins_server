@@ -195,8 +195,10 @@
   "aribasic": "",
   "arielite": "",
   "aristar": "",
+  "arispecial": "",
   "aristarwars": "",
   "ariseason": "",
+  
   "arcbackup": "",
   "arcbasic": "",
   "arcelite": "",
@@ -206,25 +208,30 @@
   "arcseason": "",
 
   
+  
   "auibasic": "",
   "auielite": "",
   "auistar": "",
+  
   "aucbackup": "",
   "aucbasic": "",
   "aucelite": "",
   "aucstar": "",
 
+
+  
   
   "badibasic": "",
   "badipegasus": "",
   "badisagittarius": "",
   "badispecial": "",
-  "cbackup": "",
+    "badicollector": "",
+  
+  "badcbackup": "",
   "badcbasic": "",
   "badcpegasus": "",
   "badcsagittarius": "",
   "badcspecial": "",
-  "badicollector": "",
   "badccollector": "",
 
 
@@ -235,6 +242,9 @@
   "balispecial": "",
   "baliepic": "",
   "balisavage": "",
+    "balicollector": "",
+  
+  
   "balcbackup": "",
   "balcbasic": "",
   "balcelite": "",
@@ -242,11 +252,202 @@
   "balcspecial": "",
   "balcepic": "",
   "balcsavage": "",
-  "balicollector": "",
   "balccollector": "",
 
 
 
+  "banibasic": "",
+  "banielite": "",
+  "banifrozen": "",
+  "baniepic": "",
+  "baniseason": "",
   
+  "bancbackup": "",
+  "bancbasic": "",
+  "bancelite": "",
+  "bancfrozen": "",
+  "bancepic": "",
+  "bancseason": "",
+
+  
+  
+  "fribasic": "",
+  "frielite": "",
+  "fristar": "",
+  "frispecial": "",
+  "friepic": "",
+    "frilegend": "",
+  "frichristmas": "",
+    "frisaber": "",
+    "friraven": "",
+  
+  "frcbackup": "",
+  "frcbasic": "",
+  "frcelite": "",
+  "frcstar": "",
+  "frcspecial": "",
+  "frcepic": "",
+  "frclegend": "",
+  "frcchristmas": "",
+  "frcsaber": "",
+  "frcraven": "",
+
+  
+  "freibasic": "",
+  "freielite": "",
+  "freineobeast": "",
+  
+  "frecbackup": "",
+  "frecbasic": "",
+  "frecelite": "",
+  "frecneobeast": "",
+
+
+  
+  "guibasic": "",
+  "guisakura": "",
+  "guistar": "",
+  "guispecial": "",
+  "guiepic": "",
+    "guisummer": "",
+  "guilegend": "",
+    "guikof": "",
+
+  
+  "gucbackup": "",
+  "gucbasic": "",
+  "gucsakura": "",
+  "gucstar": "",
+  "gucspecial": "",
+  "gucepic": "",
+  "gucsummer": "",
+  "guckof": "",
+  "guclegend": "",
+  
+
+  
+
+  "hiibasic": "",
+  "hiielite": "",
+  "hiispecial": "",
+    "hiizodiac": "",
+    "hiiseason": "",
+  
+  "hicbackup": "",
+  "hicbasic": "",
+  "hicelite": "",
+  "hicspecial": "",
+  "hiczodiac": "",
+  "hicseason": "",
+
+
+  
+  "jaibasic": "",
+  "jaielite": "",
+  "jaistar": "",
+  "jaispecial": "",
+  "jaimsc": "",
+    "jaicollector": "",
+    "jaimpl": "",
+  
+  
+  "jacbackup": "",
+  "jacbasic": "",
+  "jacelite": "",
+  "jacstar": "",
+  "jacspecial": "",
+  "jacmsc": "",
+  "jaccollector": "",
+  "jacmpl": "",
+
+
+  
+  "khibasic": "",
+  "khielite": "",
+  
+  "khcbackup": "",
+  "khcbasic": "",
+  "khcelite": "",
+
+
+
+  
+  
+  "laibasic": "",
+  "laielite": "",
+  "laistar": "",
+  "laispecial": "",
+    "laicollector": "",
+  
+  "lacbackup": "",
+  "lacbasic": "",
+  "lacelite": "",
+  "lacstar": "",
+  "lacspecial": "",
+  "laccollector": "",
+  
+
+
+  "ruibasic": "",
+  "ruielite": "",
+  "ruistar": "",
+  "ruiaspirant": "",
+  "ruiepic": "",
+    "ruicollector": "",
+  
+  "rucbackup": "",
+  "rucbasic": "",
+  "rucelite": "",
+  "rucstar": "",
+  "rucaspirant": "",
+  "rucepic": "",
+  "ruccollector": "",
+
+  
+  
+  "siibasic": "",
+  "siielite": "",
+  "siistar": "",
+  "siifuture": "",
+  "siiverdant": "",
+   "siicollector": "",
+  "siivalentines": "",
+  
+  "sicbackup": "",
+  "sicbasic": "",
+  "sicelite": "",
+  "sicstar": "",
+  "sicfuture": "",
+  "sicverdant": "",
+  "siccollector": "",
+  "sicvalentines": ""
+
+  
+
+  
+  "teibasic": "",
+  "teielite": "",
+  "teispecial": "",
+  "teiseason": "",
+  
+  "tecbackup": "",
+  "tecbasic": "",
+  "tecelite": "",
+  "tecspecial": "",
+  "tecseason": "",
+  
+  "thibasic": "",
+  "thielite": "",
+  "thistar": "",
+  "thispecial": "",
+  "thikungfu": "",
+  
+  "thcbackup": "",
+  "thcbasic": "",
+  "thcelite": "",
+  "thcstar": "",
+  "thcspecial": "",
+  "thckungfu": ""
+}
 
 }
