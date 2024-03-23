@@ -377,7 +377,7 @@
   "laielite": "",
   "laistar": "",
   "laispecial": "",
-    "laicollector": "",
+  "laicollector": "",
   
   "lacbackup": "",
   "lacbasic": "",
@@ -393,7 +393,7 @@
   "ruistar": "",
   "ruiaspirant": "",
   "ruiepic": "",
-    "ruicollector": "",
+  "ruicollector": "",
   
   "rucbackup": "",
   "rucbasic": "",
@@ -420,7 +420,7 @@
   "sicfuture": "",
   "sicverdant": "",
   "siccollector": "",
-  "sicvalentines": ""
+  "sicvalentines": "",
 
   
 
@@ -447,7 +447,100 @@
   "thcelite": "",
   "thcstar": "",
   "thcspecial": "",
-  "thckungfu": ""
+  "thckungfu": "",
+
+
+
+  "maibasic": "",
+  "maistar": "",
+  "maispecial": "",
+  "maidragon": "",
+  "maiseason": "",
+  
+  "macbackup": "",
+  "macbasic": "",
+  "macstar": "",
+  "macspecial": "",
+  "macdragon": "",
+  "macseason": "",
+
+
+  
+  "miibasic": "",
+  "miielite": "",
+  "miistar": "",
+  "miicollector": "",
+  
+  "micbackup": "",
+  "micbasic": "",
+  "micelite": "",
+  "micstar": "",
+  "miccollector": "",
+
+
+  
+  
+  "maribasic": "",
+  "mariaot": "",
+  "maristar": "",
+  "marispecial": "",
+  "mariepic": "",
+  "marizodiac": "",
+  
+  "marcbackup": "",
+  "marcbasic": "",
+  "marcaot": "",
+  "marcstar": "",
+  "marcspecial": "",
+  "marcepic": "",
+  "marczodiac": "",
+
+  
+  
+  "phibasic": "",
+  
+  "phcbackup": "",
+  "phcbasic": "",
+
+
+  
+
+  "xbibasic": "",
+  "xbielite": "",
+  "xbistar": "",
+  "xbid11": "",
+  "xbitransformer": "",
+  
+  "xbcbackup": "",
+  "xbcbasic": "",
+  "xbcelite": "",
+  "xbcstar": "",
+  "xbcd11": "",
+  "xbctransformer": "",
+  
+  
+  "yiibasic": "",
+  "yiiaot": "",
+  "yiistar": "",
+  "yiimworld": "",
+  "yiijujutsu": "",
+  
+  "yicbackup": "",
+  "yicbasic": "",
+  "yicaot": "",
+  "yicstar": "",
+  "yicmworld": "",
+  "yicjujutsu": "",
+
+  
+  
+  "ciibasic": "",
+
+  "cicbackup":"",
+    "cicbasic": ""
+  
+
+
+  
 }
 
-}
