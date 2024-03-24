@@ -74,18 +74,18 @@
   "chilibra": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202341302851.png",
 
   
-  "chcbackup": "https://github.com/Mexi23/NewBackupS/raw/main/chou_Def_backup.zip",
+  "chcbackup": "https://github.com/Mexi23/skinbackup/raw/main/chou_backup.zip",
   "chcbasic": "https://github.com/Mexi23/Fighter-1/raw/main/ChouBasic.zip",
   "chcelite": "https://github.com/Mexi23/fighterD/raw/main/chou_def_eliteN.zip",
   "chcstar": "https://github.com/Mexi23/Fighter-1/raw/main/ChouStarlight.zip",
   "chcspecial": "https://github.com/Mexi23/fighterD/raw/main/chou_def_specialN.zip",
   "chcepic": "https://github.com/Mexi23/fighterD/raw/main/chou_def_epicN.zip",
-  "chckof": "https://github.com/Mexi23/Def_Sounds/raw/main/chou_def_kofLogo.zip",
+  "chckof": "https://github.com/Mexi23/skinupdate/raw/main/chou_kof.zip",
   "chcecho": "https://github.com/Mexi23/Def_Sounds/raw/main/chou_def_echo.zip",
   "chchero": "https://github.com/Mexi23/fighterD/raw/main/chou_def_hero.zip",
   "chcstun": "https://github.com/Mexi23/fighterD/raw/main/chou_default_stun.zip",
-  "chcdragon": "https://github.com/Mexi23/fighterD/raw/main/chou_def_greenSeiyya.zip",
-  "chclibra": "https://github.com/Mexi23/Def_Sounds/raw/main/chou_def_YellowS.zip",
+  "chcdragon": "https://github.com/Mexi23/skinupdate/raw/main/chou_dragonshiryu.zip",
+  "chclibra": "https://github.com/Mexi23/skinupdate/raw/main/chou_libra.zip",
 
 
   
@@ -96,12 +96,12 @@
   "dyikof": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102858.png",
   "dyicollector": "https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204814.png",
 
-  "dycbackup": "https://github.com/Mexi23/NewBackupS/raw/main/dyroth_Def_backup.zip",
-  "dycbasic": "Upcoming!",
-  "dycstar": "https://github.com/Mexi23/Fighter-1/raw/main/DyrrothStarlight.zip",
-  "dycepic": "https://github.com/Mexi23/Def_Sounds/raw/main/dyroth_def_venom.zip",
-  "dyckof": "https://github.com/Mexi23/fighterD/raw/main/dyroth_default_kof.zip",
-  "dyccollector": "https://github.com/Mexi23/Def_Sounds/raw/main/dyroth_def_collector.zip",
+  "dycbackup": "https://github.com/Mexi23/skinbackup/raw/main/dyroth_backup.zip",
+  "dycbasic": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_basic.zip!",
+  "dycstar": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_starlight.zip",
+  "dycepic": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_venom.zip",
+  "dyckof": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_kof.zip",
+  "dyccollector": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_collector.zip",
 
 
   
@@ -148,14 +148,14 @@
   "suilunar": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193018.png",
   "suicollector": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193028.png",
 
-  "sucbackup": "https://github.com/Mexi23/fighterD/raw/main/sun_def_backup.zip",
+  "sucbackup": "https://github.com/Mexi23/skinupdate/raw/main/sunbackup.zip",
   "sucrecharge": "Upcoming!",
-  "sucelite": "https://github.com/Mexi23/Fighter-1/raw/main/SunSpecialStreetLegend.zip",
-  "sucstar": "https://github.com/Mexi23/Fighter-1/raw/main/SunStarlight.zip",
-  "sucspecial": "https://github.com/Mexi23/Fighter-1/raw/main/SunSpecialRockStar.zip",
-  "sucrock": "https://github.com/Mexi23/fighterD/raw/main/sun_def_lunar.zip",
-  "suclunar": "https://github.com/Mexi23/fighterD/raw/main/sun_def_lunar.zip",
-  "succollector": "https://github.com/Mexi23/fighterD/raw/main/sun_def_collector.zip",
+  "sucelite": "https://github.com/Mexi23/skinupdate/raw/main/sun_elite.zip",
+  "sucstar": "https://github.com/Mexi23/skinupdate/raw/main/sun_starlight.zip",
+  "sucspecial": "https://github.com/Mexi23/skinupdate/raw/main/sun_street.zip",
+  "sucrock": "https://github.com/Mexi23/skinupdate/raw/main/sun_rockstar.zip",
+  "suclunar": "https://github.com/Mexi23/skinupdate/raw/main/sun_lunarfest.zip",
+  "succollector": "https://github.com/Mexi23/skinupdate/raw/main/sun_collector.zip",
 
 
   
@@ -199,11 +199,11 @@
   "aristarwars": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725225535.jpg",
   "ariseason": "https://github.com/Mexi23/fighterD/raw/main/img_202391622404.png",
   
-  "arcbackup": "https://github.com/Mexi23/NewBackupS/raw/main/argus_Def_backup.zip",
+  "arcbackup": "https://github.com/Mexi23/skinbackup/raw/main/argus_backup.zip",
   "arcbasic": "Upcoming!",
   "arcelite": "https://github.com/Mexi23/Fighter-1/raw/main/ArgusElite.zip",
   "arcstar": "https://github.com/Mexi23/Fighter-1/raw/main/ArgusStarlight.zip",
-  "arcstarwars": "https://github.com/Mexi23/Def_Sounds/raw/main/argus_def_starwars.zip",
+  "arcstarwars": "https://github.com/Mexi23/skinupdate/raw/main/argus_starwars.zip",
   "arcseason": "https://github.com/Mexi23/fighterD/raw/main/argus_def_seasonN.zip",
 
   
@@ -248,12 +248,12 @@
   
   "balcbackup": "https://github.com/Mexi23/BACKUP-FILES-HERO/raw/main/BalmondBackup.zip",
   "balcbasic": "Upcoming!",
-  "balcelite": "https://github.com/Mexi23/Fighter-1/raw/main/BalmondEliteGhoulsFury.zip",
-  "balcstar": "https://github.com/Mexi23/Fighter-1/raw/main/BalmondStarlight.zip",
-  "balcspecial": "https://github.com/Mexi23/Fighter-1/raw/main/BalmondSpecial.zip",
-  "balcepic": "https://github.com/Mexi23/JanuaryV2/raw/main/balmond_def_epicwar.zip",
-  "balcsavage": "https://github.com/Mexi23/Fighter-1/raw/main/BalmondEliteSavageHunter.zip",
-  "balccollector": "https://github.com/Mexi23/skins-with-logo/raw/main/balmond%20COLLECTOR.zip",
+  "balcelite": "https://github.com/Mexi23/skinupdate/raw/main/balmond_ghoulfury.zip",
+  "balcstar": "https://github.com/Mexi23/skinupdate/raw/main/balmond_bioroid.zip",
+  "balcspecial": "https://github.com/Mexi23/skinupdate/raw/main/balmond_savagepointguard.zip",
+  "balcepic": "https://github.com/Mexi23/skinupdate/raw/main/balmond_infernalwarlord.zip",
+  "balcsavage": "https://github.com/Mexi23/skinupdate/raw/main/balmond_savagehunter.zip",
+  "balccollector": "https://github.com/Mexi23/skinupdate/raw/main/balmond_collector.zip",
 
 
 
@@ -316,15 +316,15 @@
     "guikof": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132843.png",
 
   
-  "gucbackup": "https://github.com/Mexi23/fighterD/raw/main/guin_def_backup.zip",
-  "gucbasic": "https://github.com/Mexi23/Fighter-1/raw/main/GuinevereBasic.zip",
+  "gucbackup": "https://github.com/Mexi23/skinbackup/raw/main/guineverre_backup.zip",
+  "gucbasic": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_basic.zip",
   "gucsakura": "https://github.com/Mexi23/Fighter-1/raw/main/GuinevereSpecialSakuraWishes.zip",
-  "gucstar": "https://github.com/Mexi23/Fighter-1/raw/main/GuinevereStarlight.zip",
+  "gucstar": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_starlight.zip",
   "gucspecial": "https://github.com/Mexi23/Fighter-1/raw/main/GuinevereSpecialAmethystDance.zip",
-  "gucepic": "https://github.com/Mexi23/fighterD/raw/main/guin_def_epic.zip",
-  "gucsummer": "https://github.com/Mexi23/Fighter-1/raw/main/GuinevereSpecialSummerBreeze.zip",
-  "guckof": "https://github.com/Mexi23/fighterD/raw/main/guin_def_kof.zip",
-  "guclegend": "https://github.com/Mexi23/fighterD/raw/main/guin_def_legend.zip",
+  "gucepic": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_ladycrane.zip",
+  "gucsummer": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_summer.zip",
+  "guckof": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_kof.zip",
+  "guclegend": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_legend.zip",
   
 
   
@@ -397,11 +397,11 @@
   "ruiepic": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272619289.png",
   "ruicollector": "https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204825.png",
   
-  "rucbackup": "https://github.com/Mexi23/NewBackupS/raw/main/ruby_backup.zip",
+  "rucbackup": "https://github.com/Mexi23/skinbackup/raw/main/ruby_backup.zip",
   "rucbasic": "https://github.com/Mexi23/Fighter-1/raw/main/RubyEliteOrchidButterfly.zip",
   "rucelite": "https://github.com/Mexi23/Fighter-1/raw/main/RubyEliteEdelweiss.zip",
   "rucstar": "https://github.com/Mexi23/Fighter-1/raw/main/RubyStarlight.zip",
-  "rucaspirant": "https://github.com/Mexi23/fighterD/raw/main/ruby_default_aspirant.zip",
+  "rucaspirant": "https://github.com/Mexi23/skinupdate/raw/main/ruby_aspirant.zip",
   "rucepic": "https://github.com/Mexi23/fighterD/raw/main/Ruby_def_epicZombie.zip",
   "ruccollector": "https://github.com/Mexi23/fighterD/raw/main/ruby_def_collector.zip",
 
