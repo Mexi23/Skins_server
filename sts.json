@@ -145,14 +145,14 @@
   "anistar": "https://github.com/Mexi23/SuppImageLQ/raw/main/img_202272712503.png",
 
 
-  "anbasic_backup":"",
-  "anbasic_annual": "",
-  "anbasic_aspirant": "",
-  "anbasic_sanrio": "",
-  "anstar_backup": "",
-  "anstar_annual": "",
-  "anstar_aspirant": "",
-  "anstar_sanrio": "",
+  "anbasic_backup":"https://github.com/Mexi23/SupStS/raw/main/angela_bastar_backup.zip",
+  "anbasic_annual": "https://github.com/Mexi23/SupStS/raw/main/angela_basic_annual.zip",
+  "anbasic_aspirant": "https://github.com/Mexi23/SupStS/raw/main/angela_basic_aspirant.zip",
+  "anbasic_sanrio": "https://github.com/Mexi23/SupStS/raw/main/angela_basic_sanrio.zip",
+  "anstar_backup": "https://github.com/Mexi23/SupStS/raw/main/angela_bastar_backup.zip",
+  "anstar_annual": "https://github.com/Mexi23/SupStS/raw/main/angela_star_annual.zip",
+  "anstar_aspirant": "https://github.com/Mexi23/SupStS/raw/main/angela_star_aspirant.zip",
+  "anstar_sanrio": "https://github.com/Mexi23/SupStS/raw/main/angela_star_sanrio.zip",
 
 
  
@@ -161,9 +161,9 @@
   "esiblacklist": "https://github.com/Mexi23/SuppImageLQ/raw/main/img_202272712535.png",
   "esiepic": "https://github.com/Mexi23/Def_Sounds/raw/main/img_202391720482.png",
  
-  "esbasic_backup": "",
-  "esbasic_blacklist": "",
-  "esbasic_epic": "",
+  "esbasic_backup": "https://github.com/Mexi23/SupStSB/raw/main/estes_basic_backup.zip",
+  "esbasic_blacklist": "https://github.com/Mexi23/SupStS/raw/main/estes_basic_BL.zip",
+  "esbasic_epic": "https://github.com/Mexi23/SupStS/raw/main/estes_basic_Epgalaxy.zip",
 
 
  
@@ -172,12 +172,12 @@
   "naimist": "https://github.com/Mexi23/Dcmbr/raw/main/img_20231110131525.png",
   "naiseason": "https://github.com/Mexi23/SuppImageLQ/raw/main/img_2022727125842.png",
  
-  "naelite_backup": "",
-  "naelite_collector": "",
-  "naelite_mist": "",
-  "naseason_backup": "",
-  "naseason_collector": "",
-  "naseason_mist": "",
+  "naelite_backup": "https://github.com/Mexi23/SupStS/raw/main/nana_ElSea_backup.zip",
+  "naelite_collector": "https://github.com/Mexi23/SupStS/raw/main/nana_elite_collector.zip",
+  "naelite_mist": "https://github.com/Mexi23/SupStS/raw/main/nana_elite_mist.zip",
+  "naseason_backup": "https://github.com/Mexi23/SupStS/raw/main/nana_ElSea_backup.zip",
+  "naseason_collector": "https://github.com/Mexi23/SupStS/raw/main/nana_season_collector.zip",
+  "naseason_mist": "https://github.com/Mexi23/SupStS/raw/main/nana_season_mist.zip",
 
 
 
@@ -186,8 +186,8 @@
   "caibasic": "https://github.com/Mexi23/SuppImageLQ/raw/main/img_202272712519.png",
   "caivalentines": "https://github.com/Mexi23/SuppImageLQ/raw/main/img_2022727125120.png",
  
-  "cabasic_backup": "",
-  "cabasic_valentines": ""
+  "cabasic_backup": "https://github.com/Mexi23/SupStSB/raw/main/carmilla_basic_backup.zip",
+  "cabasic_valentines": "https://github.com/Mexi23/SupStS/raw/main/carmilla_basic_valentine.zip"
 
 
 
