@@ -228,33 +228,34 @@
 
  
 
-  "loibasic": "",
-  "loilunar": "",
+  "loibasic": "https://github.com/Mexi23/SuppImageLQ/raw/main/img_2022727145651.png",
+  "loilunar": "https://github.com/Mexi23/SuppImageLQ/raw/main/img_202272712576.png",
+  "loirecharge":"https://github.com/Mexi23/SuppImageLQ/raw/main/img_2022727125654.png",
  
-  "lobasic_backup": "",
-  "lobasic_lunar": "",
-  "lorecharge_backup": "",
-  "lorecharge_lunar": "",
+  "lobasic_backup": "https://github.com/Mexi23/SupStSB/raw/main/lolita_basOP_backup.zip",
+  "lobasic_lunar": "https://github.com/Mexi23/SupStS/raw/main/lolita_elite_lunar.zip",
+  "lorecharge_backup": "https://github.com/Mexi23/SupStSB/raw/main/lolita_basOP_backup.zip",
+  "lorecharge_lunar": "https://github.com/Mexi23/SupStS/raw/main/lolita_specialOP_lunar.zip",
 
 
 
  
-  "maibasic": "",
-  "maimpl": "",
-  "maielite": "",
+  "maibasic": "https://github.com/Mexi23/support-images/raw/main/img_2022727125740.png",
+  "maimpl": "https://github.com/Mexi23/support-images/raw/main/img_2022727125811.png",
+  "maielite": "https://github.com/Mexi23/support-images/raw/main/img_2022727145935.png",
  
-  "mabasic_backup": "",
-  "mabasic_mpl": "",
-  "maelite_backup": "",
-  "maelite_mpl": "",
+  "mabasic_backup": "https://github.com/Mexi23/SupStSB/raw/main/mathilda_basEl_backup.zip",
+  "mabasic_mpl": "https://github.com/Mexi23/SupStS/raw/main/mathilda_basic_mdl.zip",
+  "maelite_backup": "https://github.com/Mexi23/SupStSB/raw/main/mathilda_basEl_backup.zip",
+  "maelite_mpl": "https://github.com/Mexi23/SupStS/raw/main/mathilda_elite_mdl.zip",
 
 
  
-  "raibasic": "",
-  "raiepic": "",
+  "raibasic": "https://github.com/Mexi23/Support/raw/main/RafaelaElite.zip",
+  "raiepic": "https://github.com/Mexi23/SuppD/raw/main/rafaela_def_saber.zip",
  
-  "rabasic_backup": "",
-  "rabasic_epic": ""
+  "rabasic_backup": "https://github.com/Mexi23/SupStSB/raw/main/rafaela_basic_backup.zip",
+  "rabasic_epic": "https://github.com/Mexi23/SupStS/raw/main/rafaela_elite_saber.zip"
 
 
 
