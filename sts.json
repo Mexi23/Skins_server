@@ -401,136 +401,130 @@
 
 
 
-  "kadibasic": "",
-  "kadispecial": "",
+  "kadibasic": "https://github.com/Mexi23/new-added/raw/main/img_20230307_235932921.png",
+  "kadispecial": "https://github.com/Mexi23/new-added/raw/main/img_20230307_235932873.png",
  
-  "kadbasic_backup": "",
-  "kadbasic_special": "",
-
-
- 
-  "luibasic": "",
-  "luiepic": "",
-  "luilegend": "",
-  "luielite": "",
- 
-  "lubasic_backup": "",
-  "lubasic_epic": "",
-  "lubasic_legend": "",
-  "luelite_backup": "",
-  "luelite_epic": "",
-  "luelite_legend": "",
+  "kadbasic_backup": "https://github.com/Mexi23/MageSkinSkin/raw/main/kadita_basic_backup.zip",
+  "kadbasic_special": "https://github.com/Mexi23/MageSkinSkin/raw/main/kadita_basic_special.zip",
 
 
  
-  "lyibasic": "",
-  "lyineobeast": "",
+  "luibasic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729222051.png",
+  "luiepic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_202272922525.png",
+  "luilegend": "https://github.com/Mexi23/mage-skins/raw/main/img_202352913537.png",
+  "luielite": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729222057.png",
  
-  "lybasic_backup": "",
-  "lybasic_neobeast": "",
-
-
- 
-  "zhibasic": "",
-  "zhizodiac": "",
- 
-  "zhbasic_backup": "",
-  "zhbasic_zodiac": "",
-
-
-
-
-  "luoibasic": "",
-  "luoiepic": "",
- 
-  "luobasic_backup": "",
-  "luobasic_epic": "",
+  "lubasic_backup": "https://github.com/Mexi23/MgStB/raw/main/lunox_basic_backup.zip",
+  "lubasic_epic": "https://github.com/Mexi23/MgStS/raw/main/lunox_basic_downR.zip",
+  "lubasic_legend": "https://github.com/Mexi23/MgStS/raw/main/Lunox_basic_legend.zip",
+  "luelite_backup": "https://github.com/Mexi23/MgStB/raw/main/lunox_elite_backup.zip",
+  "luelite_epic": "https://github.com/Mexi23/MgStS/raw/main/lunox_elite_downR.zip",
+  "luelite_legend": "https://github.com/Mexi23/MgStS/raw/main/lunox_elite_legend.zip",
 
 
  
-  "odibasic": "",
-  "odicreate": "",
-  "odispecial": "",
+  "lyibasic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729233831.png",
+  "lyineobeast": "https://github.com/Mexi23/AugUpdate/raw/main/img_202372320759.png",
  
-  "odbasic_backup": "",
-  "odbasic_create": "",
-  "odelite_backup": "",
-  "odspecial_create": "",
+  "lybasic_backup": "https://github.com/Mexi23/MgStB/raw/main/lylia_basic_backup.zip",
+  "lybasic_neobeast": "https://github.com/Mexi23/MgStS/raw/main/lylia_basic_neo.zip",
 
 
  
-  "phibasic": "",
-  "phicollector": "",
-  "phimsc": "",
-  "phiseason": "",
+  "zhibasic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234352.png",
+  "zhizodiac": "https://github.com/Mexi23/MageImageLQ/raw/main/img_202272923442.png",
  
-  "phbasic_backup": "",
-  "phbasic_collector": "",
-  "phbasic_msc": "",
-  "phseason_backup": "",
-  "phseason_collector": "",
-  "phseason_msc": "",
+  "zhbasic_backup": "https://github.com/Mexi23/MgStB/raw/main/zhask_basic_backup.zip",
+  "zhbasic_zodiac": "https://github.com/Mexi23/MgStS/raw/main/zhask_basic_zodiac.zip",
 
 
+
+
+
+  "luoibasic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729233641.png",
+  "luoiepic": "https://github.com/Mexi23/UpDated/raw/main/img_20235223517.png",
  
-  "valeibasic": "",
-  "valeicollector": "",
-  "valeielite": "",
- 
-  "valebasic_backup": "",
-  "valebasic_collector": "",
-  "valeelite_backup": "",
-  "valeelite_collector": "",
-
-
-
-
-  "luoibasic": "",
-  "luoiepic": "",
- 
-  "luobasic_backup": "",
-  "luobasic_epic": "",
+  "luobasic_backup": "https://github.com/Mexi23/MgStB/raw/main/luoyi_basic_backup.zip",
+  "luobasic_epic": "https://github.com/Mexi23/MgStS/raw/main/luoyi_basic_epic.zip",
 
 
  
-  "odibasic": "",
-  "odicreate": "",
-  "odispecial": "",
+  "odibasic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_202272923399.png",
+  "odicreate": "https://github.com/Mexi23/mage-skin-to-skin/raw/main/img_2023421175458.png",
+  "odispecial": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729233930.png",
  
-  "odbasic_backup": "",
-  "odbasic_create": "",
-  "odelite_backup": "",
-  "odspecial_create": "",
+  "odbasic_backup": "https://github.com/Mexi23/MgStB/raw/main/odette_BaSpec_backup.zip",
+  "odbasic_create": "https://github.com/Mexi23/MgStS/raw/main/odette_basic_create.zip",
+  "odspecial_backup": "https://github.com/Mexi23/MgStB/raw/main/odette_BaSpec_backup.zip",
+  "odspecial_create": "https://github.com/Mexi23/MgStS/raw/main/odette_special_create.zip",
 
 
  
  
-  "phibasic": "",
-  "phicollector": "",
-  "phimsc": "",
-  "phiseason": "",
+  "phibasic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_202272923401.png",
+  "phicollector": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234041.png",
+  "phimsc": "https://github.com/Mexi23/MageImageLQ/raw/main/img_202272923412.png",
+  "phiseason": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234034.png",
  
-  "phbasic_backup": "",
-  "phbasic_collector": "",
-  "phbasic_msc": "",
-  "phseason_backup": "",
-  "phseason_collector": "",
-  "phseason_msc": "",
-
-
- 
-  "valeibasic": "",
-  "valeicollector": "",
-  "valeielite": "",
- 
-  "valebasic_backup": "",
-  "valebasic_collector": "",
-  "valeelite_backup": "",
-  "valeelite_collector": ""
+  "phbasic_backup": "https://github.com/Mexi23/MgStB/raw/main/pharsa_BaSea_backup.zip",
+  "phbasic_collector": "https://github.com/Mexi23/MgStS/raw/main/pharsa_basic_collector.zip",
+  "phbasic_msc": "https://github.com/Mexi23/MgStS/raw/main/pharsa_basic_MSc.zip",
+  "phseason_backup": "https://github.com/Mexi23/MgStB/raw/main/pharsa_BaSea_backup.zip",
+  "phseason_collector": "https://github.com/Mexi23/MgStS/raw/main/pharsa_season_collector.zip",
+  "phseason_msc": "https://github.com/Mexi23/MgStS/raw/main/pharsa_season_MSC.zip",
 
 
 
  
+ "yvibasic":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234337.png",
+ "yvielite":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234342.png",
+
  
+"yvbasic_backup":"https://github.com/Mexi23/MageSkinSkin/raw/main/yve_AllBackup.zip",
+ "yvbasic_elite":"https://github.com/Mexi23/MageSkinSkin/raw/main/yve_basic_elite.zip",
+ 
+ 
+  "valeibasic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234114.png",
+  "valeicollector": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234146.png",
+  "valeielite": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234129.png",
+ 
+  "valebasic_backup": "https://github.com/Mexi23/MgStB/raw/main/vale_BasEl_backup.zip",
+  "valebasic_collector": "https://github.com/Mexi23/MgStS/raw/main/vale_basic_collector.zip",
+  "valeelite_backup": "https://github.com/Mexi23/MgStB/raw/main/vale_BasEl_backup.zip",
+  "valeelite_collector": "https://github.com/Mexi23/MgStS/raw/main/vale_elite_collector.zip",
+
+
+
+
+  "valenibasic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234157.png",
+  "valenistar": "https://github.com/Mexi23/MageSkinSkin/raw/main/img_20235813231.png",
+ 
+  "valenbasic_backup": "https://github.com/Mexi23/MgStB/raw/main/valentina_basic_backup.zip",
+  "valenbasic_star": "https://github.com/Mexi23/MgStS/raw/main/valentina_basic_star.zip",
+
+
+ 
+  "valibasic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_202272923428.png",
+  "valilegend": "https://github.com/Mexi23/mage-skins/raw/main/img_2022729234238.png",
+  "valileo": "https://github.com/Mexi23/MageImageLQ/raw/main/img_202341315426.png",
+ 
+  "valbasic_backup": "https://github.com/Mexi23/MgStB/raw/main/valir_basic_backup.zip",
+  "valbasic_legend": "https://github.com/Mexi23/MgStS/raw/main/valir_basic_legend.zip",
+  "valbasic_leo": "https://github.com/Mexi23/MgStS/raw/main/valir_basic_leo.zip",
+
+
+ 
+  "vexibasic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234251.png",
+  "vexiepic": "https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234257.png",
+ "vexiseason":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202272923434.png",
+ 
+  "vexbasic_backup": "https://github.com/Mexi23/MgStB/raw/main/vexana_BaSea_backup.zip",
+  "vexbasic_epic": "https://github.com/Mexi23/MgStS/raw/main/vexana_basic_epic.zip",
+  "vexseason_backup": "https://github.com/Mexi23/MgStB/raw/main/vexana_BaSea_backup.zip",
+  "vexseason_epic": "https://github.com/Mexi23/MgStS/raw/main/vexana_season_epic.zip"
+ 
+
+
+
 
 }
