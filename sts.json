@@ -395,9 +395,93 @@
   "hailunar": "https://github.com/Mexi23/MageSkinSkin/raw/main/img_20235804445.png",
  
   "habasic_backup": "https://github.com/Mexi23/MgStB/raw/main/harith_basic_backup.zip",
-  "habasic_lunar": "https://github.com/Mexi23/MgStS/raw/main/harith_basic_lunar.zip"
+  "habasic_lunar": "https://github.com/Mexi23/MgStS/raw/main/harith_basic_lunar.zip",
 
  
+
+
+
+  "kadibasic": "",
+  "kadispecial": "",
+ 
+  "kadbasic_backup": "",
+  "kadbasic_special": "",
+
+
+ 
+  "luibasic": "",
+  "luiepic": "",
+  "luilegend": "",
+  "luielite": "",
+ 
+  "lubasic_backup": "",
+  "lubasic_epic": "",
+  "lubasic_legend": "",
+  "luelite_backup": "",
+  "luelite_epic": "",
+  "luelite_legend": "",
+
+
+ 
+  "lyibasic": "",
+  "lyineobeast": "",
+ 
+  "lybasic_backup": "",
+  "lybasic_neobeast": "",
+
+
+ 
+  "zhibasic": "",
+  "zhizodiac": "",
+ 
+  "zhbasic_backup": "",
+  "zhbasic_zodiac": "",
+
+
+
+
+  "luoibasic": "",
+  "luoiepic": "",
+ 
+  "luobasic_backup": "",
+  "luobasic_epic": "",
+
+
+ 
+  "odibasic": "",
+  "odicreate": "",
+  "odispecial": "",
+ 
+  "odbasic_backup": "",
+  "odbasic_create": "",
+  "odelite_backup": "",
+  "odspecial_create": "",
+
+
+ 
+  "phibasic": "",
+  "phicollector": "",
+  "phimsc": "",
+  "phiseason": "",
+ 
+  "phbasic_backup": "",
+  "phbasic_collector": "",
+  "phbasic_msc": "",
+  "phseason_backup": "",
+  "phseason_collector": "",
+  "phseason_msc": "",
+
+
+ 
+  "valeibasic": "",
+  "valeicollector": "",
+  "valeielite": "",
+ 
+  "valebasic_backup": "",
+  "valebasic_collector": "",
+  "valeelite_backup": "",
+  "valeelite_collector": ""
+
  
 
 }
