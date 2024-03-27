@@ -480,8 +480,57 @@
   "valebasic_backup": "",
   "valebasic_collector": "",
   "valeelite_backup": "",
+  "valeelite_collector": "",
+
+
+
+
+  "luoibasic": "",
+  "luoiepic": "",
+ 
+  "luobasic_backup": "",
+  "luobasic_epic": "",
+
+
+ 
+  "odibasic": "",
+  "odicreate": "",
+  "odispecial": "",
+ 
+  "odbasic_backup": "",
+  "odbasic_create": "",
+  "odelite_backup": "",
+  "odspecial_create": "",
+
+
+ 
+ 
+  "phibasic": "",
+  "phicollector": "",
+  "phimsc": "",
+  "phiseason": "",
+ 
+  "phbasic_backup": "",
+  "phbasic_collector": "",
+  "phbasic_msc": "",
+  "phseason_backup": "",
+  "phseason_collector": "",
+  "phseason_msc": "",
+
+
+ 
+  "valeibasic": "",
+  "valeicollector": "",
+  "valeielite": "",
+ 
+  "valebasic_backup": "",
+  "valebasic_collector": "",
+  "valeelite_backup": "",
   "valeelite_collector": ""
 
+
+
+ 
  
 
 }
