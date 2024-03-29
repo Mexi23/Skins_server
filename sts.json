@@ -599,6 +599,7 @@
  
   "glibasic": "",
   "glispecial": "",
+ 
   "glbasic_backup": "",
   "glbasic_special": "",
 
@@ -606,6 +607,7 @@
  
   "gribasic": "",
   "griepic": "",
+ 
   "grbasic_backup": "",
   "grbasic_epic": "",
 
@@ -613,6 +615,7 @@
  
   "hyiseason": "",
   "hyiepic": "",
+ 
   "hyseason_backup": "",
   "hyseason_epic": "",
 
@@ -621,10 +624,46 @@
   "jsibasic": "",
   "jsitransformer": "",
   "jsispecial": "",
-  "jsitransformer": "",
+ 
+   "jsbasic_backup": "",
+  "jsbasic_transformer": "",
+  "jsspecial_backup": "",
+  "jsspecial_transformer": "",
 
  
 
+
+  "minoibasic": "",
+  "minoizodiac": "",
+ 
+  "minobasic_backup": "",
+  "minobasic_zodiac": "",
+
+
+ 
+  "tigibasic": "",
+  "tigilightborn": "",
+  "tigiseason": "",
+ 
+  "tigbasic_backup": "",
+  "tigbasic_lightborn": "",
+  "tigseason_backup": "",
+  "tigseason_ligthborn": "",
+
+
+ 
+ 
+  "uribasic": "",
+  "uriepic": "",
+  "uriseason": "",
+ 
+  "uribasic_backup": "",
+  "uribasic_epic": "",
+  "urseason_backup": "",
+  "urseason_epic": ""
+
+
+ 
  
 
 
