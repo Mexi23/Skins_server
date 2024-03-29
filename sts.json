@@ -523,13 +523,13 @@
   "frilegend": "https://github.com/Mexi23/2023-skins/raw/main/img_2022112021117_11zon.png",
   "friseason": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214438.png",
  
-  "frbasic": "",
-  "frbasic_backup": "",
-  "frbasic_epic": "",
-  "frbasic_legend": "",
-  "frseason_backup": "",
-  "frseason_epic": "",
-  "frseason_legend": "",
+
+  "frbasic_backup": "https://github.com/Mexi23/TnStB/raw/main/franco_basic_backup.zip",
+  "frbasic_epic": "https://github.com/Mexi23/TnStS/raw/main/franco_basic_valhala.zip",
+  "frbasic_legend": "https://github.com/Mexi23/TnStS/raw/main/franco_basic_legend.zip",
+  "frseason_backup": "https://github.com/Mexi23/TnStB/raw/main/franco_season_backup.zip",
+  "frseason_epic": "https://github.com/Mexi23/TnStS/raw/main/franco_season_valhala.zip",
+  "frseason_legend": "https://github.com/Mexi23/TnStS/raw/main/franco_season_legend.zip",
 
 
   "khibasic":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_202272721488.png",
@@ -537,10 +537,10 @@
   "khielite": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214814.png",
 
  
-  "khbasic_backup": "",
-  "khbasic_collector": "",
-  "khelite_backup": "",
-  "khelite_collector": "",
+  "khbasic_backup": "https://github.com/Mexi23/TnStB/raw/main/khufra_basEl_backup.zip",
+  "khbasic_collector": "https://github.com/Mexi23/TnStS/raw/main/khufra_basic_collector.zip",
+  "khelite_backup": "https://github.com/Mexi23/TnStB/raw/main/khufra_basEl_backup.zip",
+  "khelite_collector": "https://github.com/Mexi23/TnStS/raw/main/khufra_elite_collector.zip",
 
  
  
@@ -549,10 +549,10 @@
   "akikungfu": "https://github.com/Mexi23/tankimages/raw/main/img_2022727213853.png",
   "akiseason": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727213844.png",
  
-  "akbasic_backup": "",
-  "akbasic_kungfu": "",
-  "akseason_backup": "",
-  "akseason_kungfu": "",
+  "akbasic_backup": "https://github.com/Mexi23/TnStB/raw/main/akai_basic_backup.zip",
+  "akbasic_kungfu": "https://github.com/Mexi23/TnStS/raw/main/akai_basic_kungfu.zip",
+  "akseason_backup": "https://github.com/Mexi23/TnStB/raw/main/akai_season_backup.zip",
+  "akseason_kungfu": "https://github.com/Mexi23/TnStS/raw/main/akai_season_kungfu.zip",
 
 
  
@@ -560,9 +560,9 @@
   "atimsc": "https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/img_20235618358.png",
   "atistar": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412173830.png",
  
-  "atbasic_backup": "",
-  "atbasic_msc": "",
-  "atbasic_star": "",
+  "atbasic_backup": "https://github.com/Mexi23/TnStB/raw/main/atlas_basic_backup.zip",
+  "atbasic_msc": "https://github.com/Mexi23/TnStS/raw/main/atlas_basic_msc.zip",
+  "atbasic_star": "https://github.com/Mexi23/TnStS/raw/main/atlas_basic_star.zip",
 
 
 
@@ -570,54 +570,54 @@
   "baribasic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214045.png",
   "barielite":"https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214052.png",
  
-  "barbasic_backup": "",
-  "barbasic_elite": "",
+  "barbasic_backup": "https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/barats_backupAll.zip",
+  "barbasic_elite": "https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/barats_basic_elite.zip",
 
  
    "beibasic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214135.png",
    "beispecial": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214248.png",
  
-  "bebasic_backup": "",
-  "bebasic_special": "",
+  "bebasic_backup": "https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/belerick_backupAll.zip",
+  "bebasic_special": "https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/belerick_basic_special.zip",
 
 
   "edibasic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_202272721443.png",
   "edicloud": "https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204840.png",
  
-  "edbasic_backup": "",
-  "edbasic_cloud": "",
+  "edbasic_backup": "https://github.com/Mexi23/TnStB/raw/main/edith_basic_backup.zip",
+  "edbasic_cloud": "https://github.com/Mexi23/TnStS/raw/main/edith_basic_beyond.zip",
 
 
  
   "gaibasic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214533.png",
   "gaiepic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214547.png",
  
-  "gabasic_backup": "",
-  "gabasic_epic": "",
+  "gabasic_backup": "https://github.com/Mexi23/TnStB/raw/main/gatot_basic_backup.zip",
+  "gabasic_epic": "https://github.com/Mexi23/TnStS/raw/main/gatot_basic_epic.zip",
  
 
  
   "glibasic": "https://github.com/Mexi23/skins-with-logo/raw/main/img_20230327_224528736.png",
   "glispecial": "https://github.com/Mexi23/skins-with-logo/raw/main/img_20230327_224348934.png",
  
-  "glbasic_backup": "",
-  "glbasic_special": "",
+  "glbasic_backup": "https://github.com/Mexi23/TnStB/raw/main/gloo_basic_backup.zip",
+  "glbasic_special": "https://github.com/Mexi23/TnStS/raw/main/gloo_basic_special.zip",
 
 
  
   "gribasic": "https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/img_20235618499.png",
   "griepic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214637.png",
  
-  "grbasic_backup": "",
-  "grbasic_epic": "",
+  "grbasic_backup": "https://github.com/Mexi23/TnStB/raw/main/grock_basic_backup.zip",
+  "grbasic_epic": "https://github.com/Mexi23/TnStS/raw/main/grock_basic_rhino.zip",
 
 
  
   "hyiseason": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_202272721474.png",
   "hyiepic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214710.png",
  
-  "hyseason_backup": "",
-  "hyseason_epic": "",
+  "hyseason_backup": "https://github.com/Mexi23/TnStB/raw/main/hylos_season_backup.zip",
+  "hyseason_epic": "https://github.com/Mexi23/TnStS/raw/main/hylos_season_epic.zip",
 
 
  
@@ -625,10 +625,10 @@
   "jsitransformer": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214757.png",
   "jsispecial": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214751.png",
  
-   "jsbasic_backup": "",
-  "jsbasic_transformer": "",
-  "jsspecial_backup": "",
-  "jsspecial_transformer": "",
+   "jsbasic_backup": "https://github.com/Mexi23/TnStB/raw/main/johnson_basic_backup.zip",
+  "jsbasic_transformer": "https://github.com/Mexi23/TnStS/raw/main/johnson_basic_trans.zip",
+  "jsspecial_backup": "https://github.com/Mexi23/TnStB/raw/main/johnson_special_backup.zip",
+  "jsspecial_transformer": "https://github.com/Mexi23/TnStS/raw/main/johnson_special_trans.zip",
 
  
 
@@ -636,8 +636,8 @@
   "minoibasic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214845.png",
   "minoizodiac": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727224133.png",
  
-  "minobasic_backup": "",
-  "minobasic_zodiac": "",
+  "minobasic_backup": "https://github.com/Mexi23/TnStB/raw/main/minotaur_basic_backup.zip",
+  "minobasic_zodiac": "https://github.com/Mexi23/TnStS/raw/main/minotaur_basic_zodiac.zip",
 
 
  
@@ -645,10 +645,10 @@
   "tigilightborn": "https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204850.png",
   "tigiseason": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214910.png",
  
-  "tigbasic_backup": "",
-  "tigbasic_lightborn": "",
-  "tigseason_backup": "",
-  "tigseason_ligthborn": "",
+  "tigbasic_backup": "https://github.com/Mexi23/TnStB/raw/main/tigreal_BaSeason_backup.zip",
+  "tigbasic_lightborn": "https://github.com/Mexi23/TnStS/raw/main/tigreal_basic_LB.zip",
+  "tigseason_backup": "https://github.com/Mexi23/TnStB/raw/main/tigreal_BaSeason_backup.zip",
+  "tigseason_ligthborn": "https://github.com/Mexi23/TnStS/raw/main/tigreal_season_LB.zip",
 
 
  
@@ -657,10 +657,10 @@
   "uriepic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2022727214954.png",
   "uriseason": "https://github.com/Mexi23/tank-mage-skin-to-skin/raw/main/img_2023570747.png",
  
-  "uribasic_backup": "",
-  "uribasic_epic": "",
-  "urseason_backup": "",
-  "urseason_epic": ""
+  "uribasic_backup": "https://github.com/Mexi23/TnStB/raw/main/uranus_BaSeason_backup.zip",
+  "uribasic_epic": "https://github.com/Mexi23/TnStS/raw/main/uranus_basic_celestial.zip",
+  "urseason_backup": "https://github.com/Mexi23/TnStB/raw/main/uranus_BaSeason_backup.zip",
+  "urseason_epic": "https://github.com/Mexi23/TnStS/raw/main/uranus_season_celestial.zip"
 
 
  
