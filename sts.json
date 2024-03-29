@@ -660,8 +660,95 @@
   "uribasic_backup": "https://github.com/Mexi23/TnStB/raw/main/uranus_BaSeason_backup.zip",
   "uribasic_epic": "https://github.com/Mexi23/TnStS/raw/main/uranus_basic_celestial.zip",
   "urseason_backup": "https://github.com/Mexi23/TnStB/raw/main/uranus_BaSeason_backup.zip",
-  "urseason_epic": "https://github.com/Mexi23/TnStS/raw/main/uranus_season_celestial.zip"
+  "urseason_epic": "https://github.com/Mexi23/TnStS/raw/main/uranus_season_celestial.zip",
 
+
+
+  "aldibasic": "",
+  "aldicollector": "",
+  "aldim1": "",
+  "alditransformer": "",
+  "aldistar": "",
+   "aldelite": "",
+
+ 
+  "aldbasic_collector": "",
+  "aldbasic_m1": "",
+  "aldbasic_transformer": "",
+  "aldelite_collector": "",
+  "aldelite_m1": "",
+  "aldelite_transformer": "",
+  "aldstar_collector": "",
+  "aldstar_m1": "",
+  "aldstar_transformer": "",
+
+
+ 
+  "choibasic": "",
+  "choikof": "",
+  "choilibra": "",
+  "choiecho": "",
+  "choistar": "",
+ "choistun":"",
+ 
+  "chobasic_backup": "",
+  "chobasic_kof": "",
+  "chobasic_libra": "",
+  "chobasic_echo": "",
+  "chostar_backup": "",
+  "chostar_kof": "",
+  "chostar_libra": "",
+  "chostun_backup": "",
+  "chostun_kof": "",
+  "chostun_libra": ""
+
+
+ 
+  "dyibasic": "",
+  "dyicollector": "",
+  "dyikof": "",
+  "dyistar": "",
+ 
+  "dybasic_collector": "",
+  "dybasic_kof": "",
+  "dystar_collector": "",
+  "dystar_kof": "",
+
+
+ 
+  "leoibasic": "",
+  "leoiabyss": "",
+  "leoistar": "",
+ 
+  "leobasic_abyss": "",
+  "leobasic_backup": "",
+  "leostar_abyss": "",
+  "leostar_backup": "",
+
+
+
+
+  "paqibasic": "",
+  "paqicollector": "",
+ 
+  "paqbasic_backup": "",
+  "paqbasic_collector": "",
+
+
+ 
+  "suibasic": "",
+  "suicollector": "",
+ 
+  "subasic_backup": "",
+  "subasic_collector": "",
+
+
+ 
+  "yuibasic": "",
+  "yuiexorcist": "",
+ 
+  "yubasic_backup": "",
+  "yubasic_exorcist": ""
 
  
  
