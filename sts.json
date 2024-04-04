@@ -672,15 +672,15 @@
    "aldelite": "",
 
  
-  "aldbasic_collector": "",
-  "aldbasic_m1": "",
-  "aldbasic_transformer": "",
-  "aldelite_collector": "",
-  "aldelite_m1": "",
-  "aldelite_transformer": "",
-  "aldstar_collector": "",
-  "aldstar_m1": "",
-  "aldstar_transformer": "",
+  "aldbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/aldous_basic_collector.zip",
+  "aldbasic_m1": "https://github.com/Mexi23/FigStS/raw/main/aldous_basic_M1.zip",
+  "aldbasic_transformer": "https://github.com/Mexi23/FigStS/raw/main/aldous_basic_trans.zip",
+  "aldelite_collector": "https://github.com/Mexi23/FigStS/raw/main/aldous_elite_collector.zip",
+  "aldelite_m1": "https://github.com/Mexi23/FigStS/raw/main/aldous_elite_m1.zip",
+  "aldelite_transformer": "https://github.com/Mexi23/FigStS/raw/main/aldous_elite_trans.zip",
+  "aldstar_collector": "https://github.com/Mexi23/FigStS/raw/main/Aldous_star_collector.zip",
+  "aldstar_m1": "https://github.com/Mexi23/FigStS/raw/main/aldous_star_m1.zip",
+  "aldstar_transformer": "https://github.com/Mexi23/FigStS/raw/main/aldous_star_trans.zip",
 
 
  
@@ -692,13 +692,13 @@
  "choistun":"",
  
   "chobasic_backup": "",
-  "chobasic_kof": "",
-  "chobasic_libra": "",
-  "chobasic_echo": "",
+  "chobasic_kof": "https://github.com/Mexi23/FigStS/raw/main/chou_basic_kof.zip",
+  "chobasic_libra": "https://github.com/Mexi23/FigStS/raw/main/chou_basic_yellowS.zip",
+  "chobasic_echo": "https://github.com/Mexi23/FigStS/raw/main/chou_basic_echo.zip",
 "choelite_backup": "",
-  "choelite_kof": "",
-  "choelite_libra": "",
-  "choelite_echo": "",
+  "choelite_kof": "https://github.com/Mexi23/FigStS/raw/main/chou_elite_kof.zip",
+  "choelite_libra": "https://github.com/Mexi23/FigStS/raw/main/chou_elite_yellowS.zip",
+  "choelite_echo": "https://github.com/Mexi23/FigStS/raw/main/chou_elite_echo.zip",
   "chostar_backup": "",
   "chostar_kof": "",
   "chostar_libra": "",
@@ -760,9 +760,9 @@
   "alpiseason": "",
  
  "alpbasic_backup":"",
- "alpbasic_abyss":"",
+ "alpbasic_abyss":"https://github.com/Mexi23/FigStS/raw/main/alpha_basic_abyss.zip",
  "alpseason_backup":"",
-  "alpseason_abyss": "",
+  "alpseason_abyss": "https://github.com/Mexi23/FigStS/raw/main/alpha_season_abyss.zip",
  
 
 
@@ -771,9 +771,9 @@
   "argiseason": "",
 
   "argbasic_backup": "",
-  "argbasic_starwars": "",
+  "argbasic_starwars": "https://github.com/Mexi23/FigStS/raw/main/argus_basic_starwars.zip",
   "argseason_backup": "",
-  "argseason_starwars": "",
+  "argseason_starwars": "https://github.com/Mexi23/FigStS/raw/main/argus_season_starwars.zip",
 
 
  
@@ -789,7 +789,7 @@
   "badisagittarius": "",
  
   "badbasic_backup": "",
-  "badbasic_sagittarius": "",
+  "badbasic_sagittarius": "https://github.com/Mexi23/FigStS/raw/main/badang_basic_sagittarius.zip",
 
 
  
@@ -798,14 +798,14 @@
   "balicollector": "",
  
   "balbasic_backup": "",
-  "balbasic_epic": "",
-  "balbasic_collector": "",
+  "balbasic_epic": "https://github.com/Mexi23/FigStS/raw/main/balmond_basic_epic.zip",
+  "balbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/balmond_basic_collector.zip",
 
 
  
 
   "banbasic_backup": "",
-  "banbasic_epic": "",
+  "banbasic_epic": "https://github.com/Mexi23/FigStS/raw/main/bane_basic_epic.zip",
  
   "banibasic": "",
   "baniepic": "",
