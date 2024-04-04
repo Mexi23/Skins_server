@@ -671,14 +671,17 @@
   "aldistar": "",
    "aldelite": "",
 
- 
+
+ "aldbasic_backup":"",
   "aldbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/aldous_basic_collector.zip",
   "aldbasic_m1": "https://github.com/Mexi23/FigStS/raw/main/aldous_basic_M1.zip",
   "aldbasic_transformer": "https://github.com/Mexi23/FigStS/raw/main/aldous_basic_trans.zip",
-  "aldelite_collector": "https://github.com/Mexi23/FigStS/raw/main/aldous_elite_collector.zip",
+ "aldelite_backup":"",
+ "aldelite_collector": "https://github.com/Mexi23/FigStS/raw/main/aldous_elite_collector.zip",
   "aldelite_m1": "https://github.com/Mexi23/FigStS/raw/main/aldous_elite_m1.zip",
   "aldelite_transformer": "https://github.com/Mexi23/FigStS/raw/main/aldous_elite_trans.zip",
-  "aldstar_collector": "https://github.com/Mexi23/FigStS/raw/main/Aldous_star_collector.zip",
+  "aldstar_backup":"",
+ "aldstar_collector": "https://github.com/Mexi23/FigStS/raw/main/Aldous_star_collector.zip",
   "aldstar_m1": "https://github.com/Mexi23/FigStS/raw/main/aldous_star_m1.zip",
   "aldstar_transformer": "https://github.com/Mexi23/FigStS/raw/main/aldous_star_trans.zip",
 
@@ -700,11 +703,11 @@
   "choelite_libra": "https://github.com/Mexi23/FigStS/raw/main/chou_elite_yellowS.zip",
   "choelite_echo": "https://github.com/Mexi23/FigStS/raw/main/chou_elite_echo.zip",
   "chostar_backup": "",
-  "chostar_kof": "",
-  "chostar_libra": "",
+  "chostar_kof": "https://github.com/Mexi23/FigStS/raw/main/chou_starlight_kof.zip",
+  "chostar_libra": "https://github.com/Mexi23/FigStS/raw/main/chou_star_yellowS.zip",
   "chostun_backup": "",
-  "chostun_kof": "",
-  "chostun_libra": ""
+  "chostun_kof": "https://github.com/Mexi23/FigStS/raw/main/chou_stun_kof.zip",
+  "chostun_libra": "https://github.com/Mexi23/FigStS/raw/main/chou_stun_yellowS.zip"
 
 
  
@@ -712,11 +715,13 @@
   "dyicollector": "",
   "dyikof": "",
   "dyistar": "",
- 
-  "dybasic_collector": "",
-  "dybasic_kof": "",
-  "dystar_collector": "",
-  "dystar_kof": "",
+
+ "dybasic_backup":"",
+  "dybasic_collector": "https://github.com/Mexi23/FigStS/raw/main/dyroth_basic_collector.zip",
+  "dybasic_kof": "https://github.com/Mexi23/FigStS/raw/main/dyroth_basic_kof.zip",
+ "dystar_backup":"",
+ "dystar_collector": "https://github.com/Mexi23/FigStS/raw/main/dyroth_star_collector.zip",
+  "dystar_kof": "https://github.com/Mexi23/FigStS/raw/main/dyroth_star_kof.zip",
 
 
  
@@ -724,9 +729,9 @@
   "leoiabyss": "",
   "leoistar": "",
  
-  "leobasic_abyss": "",
+  "leobasic_abyss": "https://github.com/Mexi23/FigStS/raw/main/leo_basic_abyss.zip",
   "leobasic_backup": "",
-  "leostar_abyss": "",
+  "leostar_abyss": "https://github.com/Mexi23/FigStS/raw/main/leo_star_abyss.zip",
   "leostar_backup": "",
 
 
@@ -736,7 +741,7 @@
   "paqicollector": "",
  
   "paqbasic_backup": "",
-  "paqbasic_collector": "",
+  "paqbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/paquito_basic_collector.zip",
 
 
  
@@ -744,7 +749,7 @@
   "suicollector": "",
  
   "subasic_backup": "",
-  "subasic_collector": "",
+  "subasic_collector": "https://github.com/Mexi23/FigStS/raw/main/sun_elite_collector.zip",
 
 
  
@@ -752,7 +757,7 @@
   "yuiexorcist": "",
  
   "yubasic_backup": "",
-  "yubasic_exorcist": "",
+  "yubasic_exorcist": "https://github.com/Mexi23/FigStS/raw/main/yuZhong_basic_exorcist.zip",
 
  
    "alpibasic": "",
@@ -781,7 +786,7 @@
   "aulispecial": "",
  
   "aulbasic_backup": "",
-  "aulbasic_special": "",
+  "aulbasic_special": "https://github.com/Mexi23/FigStS/raw/main/aulus_basic_special.zip",
 
 
  
@@ -813,7 +818,7 @@
 
  
   "frebasic_backup": "",
-  "frebasic_legend": "",
+  "frebasic_legend": "https://github.com/Mexi23/FigStS/raw/main/freya_basic_legend.zip",
  
   "freibasic": "",
   "freilegend": "",
@@ -821,9 +826,9 @@
 
  
   "fredbasic_backup": "",
-  "fredbasic_neobeast": "",
+  "fredbasic_neobeast": "https://github.com/Mexi23/FigStS/raw/main/fredrin_basic_neo.zip",
   "fredelite_backup": "",
-  "fredelite_neobeast": "",
+  "fredelite_neobeast": "https://github.com/Mexi23/FigStS/raw/main/fredrin_elite_neo.zip",
  
   "fredibasic": "",
   "fredielite": "",
@@ -832,7 +837,7 @@
 
  
   "guinbasic_backup": "",
-  "guinbasic_legend": "",
+  "guinbasic_legend": "https://github.com/Mexi23/FigStS/raw/main/guinevere_basic_legend.zip",
  
   "guinibasic": "",
   "guinilegend": "",
@@ -841,7 +846,7 @@
 
  
   "lapbasic_backup": "",
-  "lapbasic_collector": "",
+  "lapbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/lapu_basic_collector.zip",
  
   "lapibasic": "",
   "lapicollector": "",
@@ -853,9 +858,9 @@
    "rubistar": "",
  
   "rubbasic_backup": "",
-  "rubbasic_aspirant": "",
+  "rubbasic_aspirant": "https://github.com/Mexi23/FigStS/raw/main/ruby_basic_aspirant.zip",
   "rubstar_backup": "",
-  "rubstar_aspirant": "",
+  "rubstar_aspirant": "https://github.com/Mexi23/FigStS/raw/main/ruby_star_aspirant.zip",
 
 
 
@@ -864,7 +869,7 @@
    "silivalentines": "",
  
   "silbasic_backup": "",
-  "silbasic_valentines": "",
+  "silbasic_valentines": "https://github.com/Mexi23/FigStS/raw/main/silvana_basic_valentines.zip",
 
 
 
@@ -873,7 +878,7 @@
    "teriepic": "",
  
   "terbasic_backup": "",
-  "terbasic_epic": "",
+  "terbasic_epic": "https://github.com/Mexi23/FigStS/raw/main/terizla_basic_epic.zip",
 
 
 
@@ -882,14 +887,14 @@
    "thaikungfu": "",
  
   "thabasic_backup": "",
-  "thabasic_kungfu": "",
+  "thabasic_kungfu": "https://github.com/Mexi23/FigStS/raw/main/thamuz_basic_kungfu.zip",
 
 
     "minsibasic": "",
     "minsicollector": "",
  
     "minsbasic_backup": "",
-    "minsbasic_collector": "",
+    "minsbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/minsithar_basic_collector.zip",
 
 
  
@@ -898,9 +903,9 @@
     "marispecial": "",
  
     "marbasic_backup": "",
-    "marbasic_epic": "",
+    "marbasic_epic": "https://github.com/Mexi23/FigStS/raw/main/martis_basic_epic.zip",
     "marspecial_backup": "",
-    "marspecial_epic": "",
+    "marspecial_epic": "https://github.com/Mexi23/FigStS/raw/main/martis_special_epic.zip",
 
 
 
@@ -910,11 +915,11 @@
   "exbielite": "",
  
   "exbbasic_backup": "",
-  "exbbasic_tesla": "",
-  "exbbasic_transformer": "",
+  "exbbasic_tesla": "https://github.com/Mexi23/FigStS/raw/main/xborg_basic_tesla11.zip",
+  "exbbasic_transformer": "https://github.com/Mexi23/FigStS/raw/main/xborg_basic_trans.zip",
   "exbelite_backup": "",
-  "exbelite_tesla": "",
-  "exbelite_transformer": "",
+  "exbelite_tesla": "https://github.com/Mexi23/FigStS/raw/main/xborg_elite_tesla.zip",
+  "exbelite_transformer": "https://github.com/Mexi23/FigStS/raw/main/xborg_elite_trans.zip",
 
 
  
@@ -923,7 +928,7 @@
   "yinjujutsu": "",
 
  "yinbasic_backup": "",
-  "yinbasic_aot": "",
-  "yinbasic_jujutsu": ""
+  "yinbasic_aot": "https://github.com/Mexi23/FigStS/raw/main/yin_basic_aot.zip",
+  "yinbasic_jujutsu": "https://github.com/Mexi23/FigStS/raw/main/yin_basic_jujutsu.zip"
  
 }
