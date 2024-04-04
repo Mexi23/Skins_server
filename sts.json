@@ -914,10 +914,10 @@
   "exbitransformer": "",
   "exbielite": "",
  
-  "exbbasic_backup": "",
+  "exbbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/xborg_backup.zip",
   "exbbasic_tesla": "https://github.com/Mexi23/FigStS/raw/main/xborg_basic_tesla11.zip",
   "exbbasic_transformer": "https://github.com/Mexi23/FigStS/raw/main/xborg_basic_trans.zip",
-  "exbelite_backup": "",
+  "exbelite_backup": "https://github.com/Mexi23/FightStSB/raw/main/xborg_backup.zip",
   "exbelite_tesla": "https://github.com/Mexi23/FigStS/raw/main/xborg_elite_tesla.zip",
   "exbelite_transformer": "https://github.com/Mexi23/FigStS/raw/main/xborg_elite_trans.zip",
 
