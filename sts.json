@@ -672,15 +672,15 @@
    "aldelite": "",
 
 
- "aldbasic_backup":"",
+ "aldbasic_backup":"https://github.com/Mexi23/FightStSB/raw/main/aldous_BasElStar_backup.zip",
   "aldbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/aldous_basic_collector.zip",
   "aldbasic_m1": "https://github.com/Mexi23/FigStS/raw/main/aldous_basic_M1.zip",
   "aldbasic_transformer": "https://github.com/Mexi23/FigStS/raw/main/aldous_basic_trans.zip",
- "aldelite_backup":"",
+ "aldelite_backup":"https://github.com/Mexi23/FightStSB/raw/main/aldous_BasElStar_backup.zip",
  "aldelite_collector": "https://github.com/Mexi23/FigStS/raw/main/aldous_elite_collector.zip",
   "aldelite_m1": "https://github.com/Mexi23/FigStS/raw/main/aldous_elite_m1.zip",
   "aldelite_transformer": "https://github.com/Mexi23/FigStS/raw/main/aldous_elite_trans.zip",
-  "aldstar_backup":"",
+  "aldstar_backup":"https://github.com/Mexi23/FightStSB/raw/main/aldous_BasElStar_backup.zip",
  "aldstar_collector": "https://github.com/Mexi23/FigStS/raw/main/Aldous_star_collector.zip",
   "aldstar_m1": "https://github.com/Mexi23/FigStS/raw/main/aldous_star_m1.zip",
   "aldstar_transformer": "https://github.com/Mexi23/FigStS/raw/main/aldous_star_trans.zip",
@@ -694,20 +694,20 @@
   "choistar": "",
  "choistun":"",
  
-  "chobasic_backup": "",
+  "chobasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/chou_basic_backup.zip",
   "chobasic_kof": "https://github.com/Mexi23/FigStS/raw/main/chou_basic_kof.zip",
   "chobasic_libra": "https://github.com/Mexi23/FigStS/raw/main/chou_basic_yellowS.zip",
   "chobasic_echo": "https://github.com/Mexi23/FigStS/raw/main/chou_basic_echo.zip",
-"choelite_backup": "",
+"choelite_backup": "https://github.com/Mexi23/FightStSB/raw/main/chou_elite_backup.zip",
   "choelite_kof": "https://github.com/Mexi23/FigStS/raw/main/chou_elite_kof.zip",
   "choelite_libra": "https://github.com/Mexi23/FigStS/raw/main/chou_elite_yellowS.zip",
   "choelite_echo": "https://github.com/Mexi23/FigStS/raw/main/chou_elite_echo.zip",
-  "chostar_backup": "",
+  "chostar_backup": "https://github.com/Mexi23/FightStSB/raw/main/chou_star_backup.zip",
   "chostar_kof": "https://github.com/Mexi23/FigStS/raw/main/chou_starlight_kof.zip",
   "chostar_libra": "https://github.com/Mexi23/FigStS/raw/main/chou_star_yellowS.zip",
-  "chostun_backup": "",
+  "chostun_backup": "https://github.com/Mexi23/FightStSB/raw/main/chou_stun_backup.zip",
   "chostun_kof": "https://github.com/Mexi23/FigStS/raw/main/chou_stun_kof.zip",
-  "chostun_libra": "https://github.com/Mexi23/FigStS/raw/main/chou_stun_yellowS.zip"
+  "chostun_libra": "https://github.com/Mexi23/FigStS/raw/main/chou_stun_yellowS.zip",
 
 
  
@@ -716,10 +716,10 @@
   "dyikof": "",
   "dyistar": "",
 
- "dybasic_backup":"",
+ "dybasic_backup":"https://github.com/Mexi23/FightStSB/raw/main/dyroth_basic_backup.zip",
   "dybasic_collector": "https://github.com/Mexi23/FigStS/raw/main/dyroth_basic_collector.zip",
   "dybasic_kof": "https://github.com/Mexi23/FigStS/raw/main/dyroth_basic_kof.zip",
- "dystar_backup":"",
+ "dystar_backup":"https://github.com/Mexi23/FightStSB/raw/main/dyroth_star_backup.zip",
  "dystar_collector": "https://github.com/Mexi23/FigStS/raw/main/dyroth_star_collector.zip",
   "dystar_kof": "https://github.com/Mexi23/FigStS/raw/main/dyroth_star_kof.zip",
 
@@ -730,9 +730,9 @@
   "leoistar": "",
  
   "leobasic_abyss": "https://github.com/Mexi23/FigStS/raw/main/leo_basic_abyss.zip",
-  "leobasic_backup": "",
+  "leobasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/leo_basStar_backup.zip",
   "leostar_abyss": "https://github.com/Mexi23/FigStS/raw/main/leo_star_abyss.zip",
-  "leostar_backup": "",
+  "leostar_backup": "https://github.com/Mexi23/FightStSB/raw/main/leo_basStar_backup.zip",
 
 
 
@@ -740,7 +740,7 @@
   "paqibasic": "",
   "paqicollector": "",
  
-  "paqbasic_backup": "",
+  "paqbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/paquito_basic_backup.zip",
   "paqbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/paquito_basic_collector.zip",
 
 
@@ -748,7 +748,7 @@
   "suibasic": "",
   "suicollector": "",
  
-  "subasic_backup": "",
+  "subasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/sun_basic_backup.zip",
   "subasic_collector": "https://github.com/Mexi23/FigStS/raw/main/sun_elite_collector.zip",
 
 
@@ -756,7 +756,7 @@
   "yuibasic": "",
   "yuiexorcist": "",
  
-  "yubasic_backup": "",
+  "yubasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/YZ_basic_backup.zip",
   "yubasic_exorcist": "https://github.com/Mexi23/FigStS/raw/main/yuZhong_basic_exorcist.zip",
 
  
@@ -785,7 +785,7 @@
   "aulibasic": "",
   "aulispecial": "",
  
-  "aulbasic_backup": "",
+  "aulbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/aulus_basic_backup.zip",
   "aulbasic_special": "https://github.com/Mexi23/FigStS/raw/main/aulus_basic_special.zip",
 
 
@@ -802,14 +802,14 @@
   "baliepic": "",
   "balicollector": "",
  
-  "balbasic_backup": "",
+  "balbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/balmond_basic_backup.zip",
   "balbasic_epic": "https://github.com/Mexi23/FigStS/raw/main/balmond_basic_epic.zip",
   "balbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/balmond_basic_collector.zip",
 
 
  
 
-  "banbasic_backup": "",
+  "banbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/bane_basic_backup.zip",
   "banbasic_epic": "https://github.com/Mexi23/FigStS/raw/main/bane_basic_epic.zip",
  
   "banibasic": "",
@@ -817,7 +817,7 @@
 
 
  
-  "frebasic_backup": "",
+  "frebasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/freya_basic_backup.zip",
   "frebasic_legend": "https://github.com/Mexi23/FigStS/raw/main/freya_basic_legend.zip",
  
   "freibasic": "",
@@ -845,7 +845,7 @@
 
 
  
-  "lapbasic_backup": "",
+  "lapbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/lapu_basic_backup.zip",
   "lapbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/lapu_basic_collector.zip",
  
   "lapibasic": "",
@@ -877,7 +877,7 @@
   "teribasic": "",
    "teriepic": "",
  
-  "terbasic_backup": "",
+  "terbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/terizla_basicDef_backup.zip",
   "terbasic_epic": "https://github.com/Mexi23/FigStS/raw/main/terizla_basic_epic.zip",
 
 
@@ -886,7 +886,7 @@
   "thaibasic": "",
    "thaikungfu": "",
  
-  "thabasic_backup": "",
+  "thabasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/thamuz_basic_backup.zip",
   "thabasic_kungfu": "https://github.com/Mexi23/FigStS/raw/main/thamuz_basic_kungfu.zip",
 
 
@@ -927,7 +927,7 @@
   "yinaot": "",
   "yinjujutsu": "",
 
- "yinbasic_backup": "",
+ "yinbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/yin_basic_backup.zip",
   "yinbasic_aot": "https://github.com/Mexi23/FigStS/raw/main/yin_basic_aot.zip",
   "yinbasic_jujutsu": "https://github.com/Mexi23/FigStS/raw/main/yin_basic_jujutsu.zip"
  
