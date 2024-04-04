@@ -764,9 +764,9 @@
   "alpiabyss": "",
   "alpiseason": "",
  
- "alpbasic_backup":"",
+ "alpbasic_backup":"https://github.com/Mexi23/FightStSB/raw/main/alpha_backup.zip",
  "alpbasic_abyss":"https://github.com/Mexi23/FigStS/raw/main/alpha_basic_abyss.zip",
- "alpseason_backup":"",
+ "alpseason_backup":"https://github.com/Mexi23/FightStSB/raw/main/alpha_backup.zip",
   "alpseason_abyss": "https://github.com/Mexi23/FigStS/raw/main/alpha_season_abyss.zip",
  
 
@@ -775,9 +775,9 @@
   "argistarwars": "",
   "argiseason": "",
 
-  "argbasic_backup": "",
+  "argbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/argus_backup.zip",
   "argbasic_starwars": "https://github.com/Mexi23/FigStS/raw/main/argus_basic_starwars.zip",
-  "argseason_backup": "",
+  "argseason_backup": "https://github.com/Mexi23/FightStSB/raw/main/argus_backup.zip",
   "argseason_starwars": "https://github.com/Mexi23/FigStS/raw/main/argus_season_starwars.zip",
 
 
@@ -793,7 +793,7 @@
   "badibasic": "",
   "badisagittarius": "",
  
-  "badbasic_backup": "",
+  "badbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/badang_basic_backup.zip",
   "badbasic_sagittarius": "https://github.com/Mexi23/FigStS/raw/main/badang_basic_sagittarius.zip",
 
 
@@ -825,9 +825,9 @@
 
 
  
-  "fredbasic_backup": "",
+  "fredbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/fredrin_backup.zip",
   "fredbasic_neobeast": "https://github.com/Mexi23/FigStS/raw/main/fredrin_basic_neo.zip",
-  "fredelite_backup": "",
+  "fredelite_backup": "https://github.com/Mexi23/FightStSB/raw/main/fredrin_backup.zip",
   "fredelite_neobeast": "https://github.com/Mexi23/FigStS/raw/main/fredrin_elite_neo.zip",
  
   "fredibasic": "",
@@ -836,7 +836,7 @@
 
 
  
-  "guinbasic_backup": "",
+  "guinbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/guin_basic_backup.zip",
   "guinbasic_legend": "https://github.com/Mexi23/FigStS/raw/main/guinevere_basic_legend.zip",
  
   "guinibasic": "",
@@ -857,9 +857,9 @@
    "rubiaspirant": "",
    "rubistar": "",
  
-  "rubbasic_backup": "",
+  "rubbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/ruby_backup.zip",
   "rubbasic_aspirant": "https://github.com/Mexi23/FigStS/raw/main/ruby_basic_aspirant.zip",
-  "rubstar_backup": "",
+  "rubstar_backup": "https://github.com/Mexi23/FightStSB/raw/main/ruby_backup.zip",
   "rubstar_aspirant": "https://github.com/Mexi23/FigStS/raw/main/ruby_star_aspirant.zip",
 
 
@@ -868,7 +868,7 @@
   "silibasic": "",
    "silivalentines": "",
  
-  "silbasic_backup": "",
+  "silbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/silavanna_basic_backup.zip",
   "silbasic_valentines": "https://github.com/Mexi23/FigStS/raw/main/silvana_basic_valentines.zip",
 
 
@@ -893,7 +893,7 @@
     "minsibasic": "",
     "minsicollector": "",
  
-    "minsbasic_backup": "",
+    "minsbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/minsi_basic_backup.zip",
     "minsbasic_collector": "https://github.com/Mexi23/FigStS/raw/main/minsithar_basic_collector.zip",
 
 
@@ -902,9 +902,9 @@
     "mariepic": "",
     "marispecial": "",
  
-    "marbasic_backup": "",
+    "marbasic_backup": "https://github.com/Mexi23/FightStSB/raw/main/martis_backup.zip",
     "marbasic_epic": "https://github.com/Mexi23/FigStS/raw/main/martis_basic_epic.zip",
-    "marspecial_backup": "",
+    "marspecial_backup": "https://github.com/Mexi23/FightStSB/raw/main/martis_backup.zip",
     "marspecial_epic": "https://github.com/Mexi23/FigStS/raw/main/martis_special_epic.zip",
 
 
