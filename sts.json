@@ -939,9 +939,9 @@
   "beaiprime": "https://github.com/Mexi23/2023-skins/raw/main/img_2022112021045_11zon.png",
  
   "beabasic_backup": "",
-  "beabasic_prime": "",
+  "beabasic_prime": "https://github.com/Mexi23/MmStS/raw/main/bea_basic_prime.zip",
   "beaelite_backup": "",
-  "beaelite_prime": "",
+  "beaelite_prime": "https://github.com/Mexi23/MmStS/raw/main/bea_elite_prime.zip",
 
 
  
@@ -951,9 +951,9 @@
   "claivalentines": "https://github.com/Mexi23/marksman-images/raw/main/img_2023417194815.png",
  
   "clabasic_backup": "",
-  "clabasic_sanrio": "",
-  "clabasic_epic": "",
-  "clabasic_valentines": "",
+  "clabasic_sanrio": "https://github.com/Mexi23/MmStS/raw/main/claude_basic_sanrio.zip",
+  "clabasic_epic": "https://github.com/Mexi23/MMstsB/raw/main/claude_basic_epic.zip",
+  "clabasic_valentines": "https://github.com/Mexi23/MmStS/raw/main/claude_basic_valentine.zip",
 
 
  
@@ -962,8 +962,8 @@
   "graitransformer": "https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729124628.png",
  
   "grabasic_backup": "",
-  "grabasic_legend": "",
-  "grabasic_transformer": "",
+  "grabasic_legend": "https://github.com/Mexi23/MmStS/raw/main/granger_basic_legend.zip",
+  "grabasic_transformer": "https://github.com/Mexi23/MmStS/raw/main/granger_basic_trans.zip",
 
 
  
@@ -971,7 +971,7 @@
   "kimistarwars": "https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729105244.png",
  
   "kimbasic_backup": "",
-  "kimbasic_starwars": "",
+  "kimbasic_starwars": "https://github.com/Mexi23/MmStS/raw/main/kimmy_basic_starwars.zip",
 
 
 
@@ -980,7 +980,7 @@
   "layiaspirant": "https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729105328.png",
  
   "laybasic_backup": "",
-  "laybasic_aspirant": "",
+  "laybasic_aspirant": "https://github.com/Mexi23/MmStS/raw/main/layla_basic_aspirant.zip",
 
 
  
@@ -989,8 +989,8 @@
   "lesiannual": "https://github.com/Mexi23/MmImageLQ/raw/main/img_20234132343.png",
  
   "lesbasic_backup": "",
-  "lesbasic_legend": "",
-  "lesbasic_annual": "",
+  "lesbasic_legend": "https://github.com/Mexi23/MmStS/raw/main/lesley_basic_legend.zip",
+  "lesbasic_annual": "https://github.com/Mexi23/MmStS/raw/main/lesley_basic_annual.zip",
 
 
  
@@ -1001,13 +1001,13 @@
   "miyianniversary": "https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729105551.png",
  
   "miybasic_backup": "",
-  "miybasic_collector": "",
-  "miybasic_legend": "",
-  "miybasic_atomic": "",
+  "miybasic_collector": "https://github.com/Mexi23/MmStS/raw/main/miya_elite_collector.zip",
+  "miybasic_legend": "https://github.com/Mexi23/MmStS/raw/main/miya_elite_legend.zip",
+  "miybasic_atomic": "https://github.com/Mexi23/MmStS/raw/main/miya_elite_atomic.zip",
   "miyanniversary_backup": "",
-  "miyanniversary_collector": "",
-  "miyanniversary_legend": "",
-  "miyanniversary_atomic": "",
+  "miyanniversary_collector": "https://github.com/Mexi23/MmStS/raw/main/miya_anniv_collector.zip",
+  "miyanniversary_legend": "https://github.com/Mexi23/MmStS/raw/main/miya_anniv_legend.zip",
+  "miyanniversary_atomic": "https://github.com/Mexi23/MmStS/raw/main/miya_anniv_atomic.zip",
 
 
  
@@ -1016,9 +1016,9 @@
   "mosielite": "https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729112212.png",
  
   "mosbasic_backup": "",
-  "mosbasic_abyss": "",
+  "mosbasic_abyss": "https://github.com/Mexi23/MmStS/raw/main/moscov_basic_abyss.zip",
   "moselite_backup": "",
-  "moselite_abyss": "",
+  "moselite_abyss": "https://github.com/Mexi23/MmStS/raw/main/moscov_elite_abyss.zip",
 
 
 
@@ -1028,11 +1028,11 @@
   "rogistar": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192659.png",
  
   "rogbasic_backup": "",
-  "rogbasic_transformer": "",
-  "rogbasic_prime": "",
+  "rogbasic_transformer": "https://github.com/Mexi23/MmStS/raw/main/roger_basic_trans.zip",
+  "rogbasic_prime": "https://github.com/Mexi23/MmStS/raw/main/roger_basic_prime.zip",
   "rogstar_backup": "",
-  "rogstar_transformer": "",
-  "rogstar_prime": "",
+  "rogstar_transformer": "https://github.com/Mexi23/MmStS/raw/main/roger_star_trans.zip",
+  "rogstar_prime": "https://github.com/Mexi23/MmStS/raw/main/roger_star_prime.zip",
 
 
  
@@ -1041,9 +1041,9 @@
   "yssielite": "https://github.com/Mexi23/MmImageLQ/raw/main/img_202272911245.png",
 
   "yssbasic_backup": "",
-  "yssbasic_collector": "",
+  "yssbasic_collector": "https://github.com/Mexi23/MmStS/raw/main/yss_basic_collector.zip",
   "ysselite_backup": "",
-  "ysselite_collector": "",
+  "ysselite_collector": "https://github.com/Mexi23/MmStS/raw/main/yss_elite_collector.zip",
 
 
  
@@ -1053,11 +1053,11 @@
   "broistar": "https://github.com/Mexi23/marksman-images/raw/main/img_202272815932.png",
  
   "brobasic_backup": "",
-  "brobasic_collector": "",
-  "brobasic_stun": "",
+  "brobasic_collector": "https://github.com/Mexi23/MmStS/raw/main/brody_basic_collector.zip",
+  "brobasic_stun": "https://github.com/Mexi23/MmStS/raw/main/brody_basic_stun.zip",
   "brostar_backup": "",
-  "brostar_collector": "",
-  "brostar_stun": "",
+  "brostar_collector": "https://github.com/Mexi23/MmStS/raw/main/brody_star_collector.zip",
+  "brostar_stun": "https://github.com/Mexi23/MmStS/raw/main/brody_star_stun.zip",
 
 
  
@@ -1065,7 +1065,7 @@
   "bruihero": "https://github.com/Mexi23/MmImageLQ/raw/main/img_20227281599.png",
  
   "brubasic_backup": "",
-  "brubasic_hero": "",
+  "brubasic_hero": "https://github.com/Mexi23/MmStS/raw/main/bruno_elitestreet_hero.zip",
 
 
 
@@ -1075,8 +1075,8 @@
   "hanicollector": "https://github.com/Mexi23/new-added/raw/main/img_20230307_235933095.png",
  
   "hanbasic_backup": "",
-  "hanbasic_allstar": "",
-  "hanbasic_collector": "",
+  "hanbasic_allstar": "https://github.com/Mexi23/MmStS/raw/main/hanabi_basic_AllStar.zip",
+  "hanbasic_collector": "https://github.com/Mexi23/MmStS/raw/main/hanabi_basic_collector.zip",
 
 
  
@@ -1085,8 +1085,8 @@
   "irizodiac": "https://github.com/Mexi23/MmImageLQ/raw/main/img_202272995841.png",
  
   "irbasic_backup": "",
-  "irbasic_ducati": "",
-  "irbasic_zodiac": "",
+  "irbasic_ducati": "https://github.com/Mexi23/MmStS/raw/main/irithel_basic_ducati.zip",
+  "irbasic_zodiac": "https://github.com/Mexi23/MmStS/raw/main/irithel_basic_zodiac.zip",
 
 
  
@@ -1095,9 +1095,9 @@
   "karielite": "https://github.com/Mexi23/MmImageLQ/raw/main/img_202272910195.png",
  
   "karbasic_backup": "",
-  "karbasic_epic": "",
+  "karbasic_epic": "https://github.com/Mexi23/MmStS/raw/main/karrie_basic_epic.zip",
   "karelite_backup": "",
-  "karelite_epic": "",
+  "karelite_epic": "https://github.com/Mexi23/MmStS/raw/main/karrie_elite_epic.zip",
 
 
  
@@ -1106,8 +1106,8 @@
   "melistar": "https://github.com/Mexi23/Assasins_defS/raw/main/img_2023912235434.png",
  
   "melbasic_backup": "",
-  "melbasic_jujutsu": "",
-  "melbasic_star": "",
+  "melbasic_jujutsu": "https://github.com/Mexi23/MmStS/raw/main/melissa_basic_jujutsu.zip",
+  "melbasic_star": "https://github.com/Mexi23/MmStS/raw/main/melissa_basic_star.zip",
 
  
 
@@ -1117,9 +1117,9 @@
   "natelite": "https://github.com/Mexi23/MmImageLQ/raw/main/img_202272911235.png",
  
   "natbasic_backup": "",
-  "natbasic_collector": "",
+  "natbasic_collector": "https://github.com/Mexi23/MmStS/raw/main/nathan_basic_collector.zip",
   "natelite_backup": "",
-  "natelite_collector": "",
+  "natelite_collector": "https://github.com/Mexi23/MmStS/raw/main/nathan_elite_collector.zip",
 
 
  
@@ -1128,9 +1128,9 @@
   "poielite": "https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729112242.png",
  
   "pobasic_backup": "",
-  "pobasic_transformer": "",
+  "pobasic_transformer": "https://github.com/Mexi23/MmStS/raw/main/popol_basic_trans.zip",
   "poelite_backup": "",
-  "poelite_transformer": "",
+  "poelite_transformer": "https://github.com/Mexi23/MmStS/raw/main/popol_elite_trans.zip",
 
 
  
@@ -1139,8 +1139,8 @@
   "wanimworld": "https://github.com/Mexi23/MmImageLQ/raw/main/img_2022729112345.png",
  
   "wanbasic_backup": "",
-  "wanbasic_collector": "",
-  "wanbasic_mworld": "",
+  "wanbasic_collector": "https://github.com/Mexi23/MmStS/raw/main/wanwan_basic_collector.zip",
+  "wanbasic_mworld": "https://github.com/Mexi23/MmStS/raw/main/wanwan_Mworld_collector.zip",
 
 
  
@@ -1149,8 +1149,8 @@
   "cliim2": "https://github.com/Mexi23/MmImageLQ/raw/main/img_202272823243.png",
  
   "clibasic_backup": "",
-  "clibasic_collector": "",
-  "clibasic_m2": ""
+  "clibasic_collector": "https://github.com/Mexi23/MmStS/raw/main/clint_basic_collector.zip",
+  "clibasic_m2": "https://github.com/Mexi23/MmStS/raw/main/clint_basic_m2.zip"
 
  
  
