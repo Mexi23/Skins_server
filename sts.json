@@ -1150,7 +1150,286 @@
  
   "clibasic_backup": "https://github.com/Mexi23/MMstsB/raw/main/clint_basic_backup.zip",
   "clibasic_collector": "https://github.com/Mexi23/MmStS/raw/main/clint_basic_collector.zip",
-  "clibasic_m2": "https://github.com/Mexi23/MmStS/raw/main/clint_basic_m2.zip"
+  "clibasic_m2": "https://github.com/Mexi23/MmStS/raw/main/clint_basic_m2.zip",
+
+
+
+
+  "aaibasic": "",
+  "aaistar": "",
+  "aaelite": "",
+ 
+  "aabasic_backup": "",
+  "aabasic_star": "",
+  "aaelite_backup": "",
+  "aaelite_star": "",
+
+
+ 
+  "beneibasic": "",
+  "beneicollector": "",
+  "beneiducati": "",
+  "beneistar": "",
+   "beneispecial": "",
+ 
+  "benebasic_backup": "",
+  "benebasic_collector": "",
+  "benebasic_ducati": "",
+  "benestar_backup": "",
+  "benestar_collector": "",
+  "benespecial_collector": "",
+  "benespecial_backup": "",
+  "benespecial_collector": "",
+
+
+ 
+  "lingibasic": "",
+  "lingikungfu": "",
+  "lingicollector": "",
+  "lingistar": "",
+   "lingidragon": "",
+ 
+  "lingbasic_backup": "",
+  "lingbasic_kungfu": "",
+  "lingbasic_collector": "",
+  "lingstar_backup": "",
+  "lingstar_kungfu": "",
+  "lingstar_collector": "",
+  "lingdragon_kungfu": "",
+  "lingdragon_collector": "",
+  "lingdragon_backup": "",
+  "lingdragon_kungfu": "",
+  "lingdragon_collector": "",
+
+
+ 
+  "selibasic": "",
+  "seliabyss": "",
+  "seliepic": "",
+  "selistun": "",
+  "selistar": "",
+   "selielite": "",
+ 
+  "selbasic_backup": "",
+  "selbasic_abyss": "",
+  "selbasic_epic": "",
+  "selbasic_stun": "",
+  "selstar_backup": "",
+  "selstar_abyss": "",
+  "selstar_epic": "",
+  "selstar_stun": "",
+  "selelite_abyss": "",
+  "selelite_epic": "",
+  "selelite_stun": "",
+  "selelite_backup": "",
+  "selelite_abyss": "",
+  "selelite_epic": "",
+  "selelite_stun": "",
+
+
+
+ 
+  "lanibasic": "",
+  "lanibren": "",
+  "laniepic": "",
+  "lanidragon": "",
+  "lanizodiac": "",
+  "lanistar": "",
+  "lanichristmas": "",
+  "lanchristmas_backup": "",
+  "lanchristmas_hero": "",
+  "lanchristmas_epic": "",
+  "lanchristmas_dragon": "",
+  "lanchristmas_zodiac": "",
+  "landragon_backup": "",
+  "landragon_hero": "",
+
+
+ 
+  "harlibasic": "",
+  "harlicollector": "",
+  "harliepic": "",
+  "harlistar": "",
+  "harlbasic_backup": "",
+  "harlbasic_collector": "",
+  "harlbasic_epic": "",
+  "harlstar_backup": "",
+  "harlstar_collector": "",
+  "harlstar_epic": "",
+
+
+ 
+  "hayibasic": "",
+  "hayi11": "",
+  "hayiepic": "",
+  "hayistar": "",
+  "haybasic_backup": "",
+  "haybasic_11": "",
+  "haybasic_epic": "",
+  "haystar_backup": "",
+  "haystar_11": "",
+  "haystar_epic": "",
+  "hayelite_backup": "",
+  "hayelite_11": "",
+  "hayelite_epic": "",
+  "haysummer_backup": "",
+  "haysummer_11": "",
+  "haysummer_epic": "",
+
+
+
+
+
+  "gusibasic": "",
+  "gusicollector": "",
+  "gusilegend": "",
+  "gusikof": "",
+  "gusi11": "",
+  "gusistar": "",
+  "gusielite": "",
+  "gusievalentines": "",
+  "gusivenom": "",
+  "gusiepic": "",
+ 
+  "gusbasic_backup": "",
+  "gusbasic_collector": "",
+  "gusbasic_legend": "",
+  "gusbasic_kof": "",
+  "gusbasic_11": "",
+  "gusstar_backup": "",
+  "gusstar_collector": "",
+  "gusstar_legend": "",
+  "gusstar_kof": "",
+  "gusstar_11": "",
+  "guselite_backup": "",
+  "guselite_collector": "",
+  "guselite_legend": "",
+  "guselite_kof": "",
+  "guselite_11": "",
+  "gusvalentines_backup": "",
+  "gusvalentines_collector": "",
+  "gusvalentines_legend": "",
+  "gusvalentines_kof": "",
+  "gusvalentines_11": "",
+  "gusvenom_backup": "",
+  "gusvenom_collector": "",
+  "gusepic_backup": "",
+  "gusepic_collector": "",
+
+
+
+ 
+  "karinibasic": "",
+  "karinikof": "",
+  "karinielite": "",
+ 
+  "karinbasic_backup": "",
+  "karinbasic_kof": "",
+  "karinelite_backup": "",
+  "karinelite_kof": "",
+
+
+ 
+  "aluibasic": "",
+  "aluistarwars": "",
+  "aluilegend": "",
+  "aluistar": "",
+  "aluistarwars": "",
+  "aluiseason": "",
+ 
+  "alubasic_backup": "",
+  "alubasic_starwars": "",
+  "alubasic_legend": "",
+  "alustar_backup": "",
+  "alustar_starwars": "",
+  "alustar_legend": "",
+  "aluseason_backup": "",
+  "aluseason_starwars": "",
+  "aluseason_legend": "",
+
+
+ 
+  "sabibasic": "",
+  "sabiepic": "",
+  "sabilegend": "",
+ 
+  "sabbasic_backup": "",
+  "sabbasic_epic": "",
+  "sabbasic_legend": "",
+
+ 
+
+ 
+  "fannibasic": "",
+  "faniepic": "",
+  "faniaspirant": "",
+  "faniaot": "",
+  "fanivalentines": "",
+  "fanistar": "",
+   "faniseason": "",
+   "fanisummer": "",
+   "fanilightborn": "",
+   "faniimperial": "",
+ 
+  "fanstar_backup": "",
+  "fanstar_epic": "",
+  "fanstar_aspirant": "",
+  "fanstar_aot": "",
+  "fanstar_valentines": "",
+  "fansummer_backup": "",
+  "fansummer_epic": "",
+  "fansummer_aspirant": "",
+  "fansummer_aot": "",
+  "fansummer_valentines": "",
+  "fanlightborn_backup": "",
+  "fanlightborn_epic": "",
+  "fanlightborn_aspirant": "",
+  "fanlightborn_aot": "",
+  "fanlightborn_valentines": "",
+  "fanseason_backup": "",
+  "fanseason_epic": "",
+  "fanseason_aspirant": "",
+  "fanseason_aot": "",
+  "fanseason_valentines": "",
+  "fanimperial_backup": "",
+  "fanimperial_epic": "",
+  "fanimperial_aspirant": "",
+  "fanimperial_aot": "",
+  "fanimperial_valentines": "",
+
+
+
+  "zibasic": "",
+   "ziloyal": "",
+   "ziielite": "",
+ 
+  "zibasic_collector": "",
+  "ziloyal_collector": "",
+  "zielite_collector": "",
+
+
+ 
+ 
+  "natbasic": "",
+   "natielite": "",
+ 
+  "natbasic_special": "",
+  "natelite_special": "",
+
+
+
+ 
+  "helibasic": "",
+ 
+  "helibasic_zodiac": "",
+
+
+ 
+ 
+  "aribasic": "",
+ 
+  "aristar": ""
+ 
 
  
  
