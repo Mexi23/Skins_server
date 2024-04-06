@@ -1157,7 +1157,7 @@
 
   "aaibasic": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192410.png",
   "aaistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758440.png",
-  "aaelite": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192417.png",
+  "aaielite": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192417.png",
  
   "aabasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/aamon_basic_backup.zip",
   "aabasic_star": "https://github.com/Mexi23/AssStS/raw/main/aamon_basic_star.zip",
@@ -1224,7 +1224,8 @@
 
  
   "lanibasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193108473.png",
-  "lanibren": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193108035.png",
+ "lanihero":"https://github.com/Mexi23/AugUpdate/raw/main/img_2023723204923.png",
+ "lanibren": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193108035.png",
   "laniepic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193108336.png",
   "lanidragon": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758373.png",
   "lanizodiac": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193108189.png",
@@ -1415,10 +1416,11 @@
 
 
 
-  "zibasic": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193312.png",
-   "ziloyal": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193458.png",
+  "ziibasic": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193312.png",
+   "ziiloyal": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193458.png",
    "ziielite": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193447.png",
-
+"ziicollector":"https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272619358.png",
+ 
    "zibasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/zilong_eliteB_backup.zip",
   "ziloyal_backup": "https://github.com/Mexi23/AsStSB/raw/main/zilong_loyalS_backup.zip",
   "zielite_backup": "https://github.com/Mexi23/AsStSB/raw/main/zilong_blazing_backup.zip",
@@ -1431,17 +1433,19 @@
  
   "nataibasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107404.png",
    "nataielite": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107290.png",
-
+ "nataispecial":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107141.png",
+ 
  "natabasic_backup":"https://github.com/Mexi23/AsStSB/raw/main/natalia_basic_backup.zip",
  "nataspecial_backup":"https://github.com/Mexi23/AsStSB/raw/main/natalia_elite_backup.zip",
-  "natqbasic_special": "https://github.com/Mexi23/AssStS/raw/main/natalia_basic_spectre.zip",
+  "natabasic_special": "https://github.com/Mexi23/AssStS/raw/main/natalia_basic_spectre.zip",
   "nataelite_special": "https://github.com/Mexi23/AssStS/raw/main/natalia_elite_spectre.zip",
 
 
 
  
   "helibasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_181426432.png",
-
+ "helizodiac":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_181426224.png",
+ 
  "helbasic_backup":"https://github.com/Mexi23/AsStSB/raw/main/helcurt_basic_backup.zip",
   "helbasic_zodiac": "https://github.com/Mexi23/AssStS/raw/main/helcurt_basuc_zodiac.zip",
 
@@ -1449,7 +1453,8 @@
  
  
   "aribasic": "https://github.com/Mexi23/DefAss/raw/main/img_2023916182729.png",
-
+   "aristar":"https://github.com/Mexi23/November/raw/main/img_20231021213126.png",
+ 
  "arbasic_backup":"https://github.com/Mexi23/AsStSB/raw/main/arlott_basic_backup.zip",
   "arbasic_istar": "https://github.com/Mexi23/AssStS/raw/main/arlott_basic_star.zip"
  
