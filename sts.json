@@ -1160,9 +1160,9 @@
   "aaelite": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192417.png",
  
   "aabasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/aamon_basic_backup.zip",
-  "aabasic_star": "",
+  "aabasic_star": "https://github.com/Mexi23/AssStS/raw/main/aamon_basic_star.zip",
   "aaelite_backup": "https://github.com/Mexi23/AsStSB/raw/main/aamon_elite_backup.zip",
-  "aaelite_star": "",
+  "aaelite_star": "https://github.com/Mexi23/AssStS/raw/main/Aamon_elite_star.zip",
 
 
  
@@ -1173,12 +1173,12 @@
   "beneispecial": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758498.png",
  
   "benebasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/bene_basic_backup.zip",
-  "benebasic_collector": "",
-  "benebasic_ducati": "",
+  "benebasic_collector": "https://github.com/Mexi23/AssStS/raw/main/benedetta_basic_collector.zip",
+  "benebasic_ducati": "https://github.com/Mexi23/AssStS/raw/main/benedetta_basic_ducati.zip",
   "benestar_backup": "https://github.com/Mexi23/AsStSB/raw/main/bene_star_backup.zip",
-  "benestar_collector": "",
+  "benestar_collector": "https://github.com/Mexi23/AssStS/raw/main/benedetta_star_collector.zip",
   "benespecial_backup": "https://github.com/Mexi23/AsStSB/raw/main/bene_spec_backup.zip",
-  "benespecial_collector": "",
+  "benespecial_collector": "https://github.com/Mexi23/AssStS/raw/main/bene_special_collector.zip",
 
 
  
@@ -1189,16 +1189,14 @@
    "lingidragon": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107734.png",
  
   "lingbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/ling_basic_backup.zip",
-  "lingbasic_kungfu": "",
-  "lingbasic_collector": "",
+  "lingbasic_kungfu": "https://github.com/Mexi23/AssStS/raw/main/ling_basic_kungfu.zip",
+  "lingbasic_collector": "https://github.com/Mexi23/AssStS/raw/main/ling_basic_collector.zip",
   "lingstar_backup": "https://github.com/Mexi23/AsStSB/raw/main/ling_stat_backup.zip",
-  "lingstar_kungfu": "",
-  "lingstar_collector": "",
-  "lingdragon_kungfu": "",
-  "lingdragon_collector": "",
+  "lingstar_kungfu": "https://github.com/Mexi23/AssStS/raw/main/ling_star_kungfu.zip",
+  "lingstar_collector": "https://github.com/Mexi23/AssStS/raw/main/ling_star_collector.zip",
   "lingdragon_backup": "https://github.com/Mexi23/AsStSB/raw/main/ling_dragon_backup.zip",
-  "lingdragon_kungfu": "",
-  "lingdragon_collector": "",
+  "lingdragon_kungfu": "Updating!",
+  "lingdragon_collector": "https://github.com/Mexi23/AssStS/raw/main/ling_dragon_collector.zip",
 
 
  
@@ -1211,7 +1209,7 @@
  
   "selbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/selena_basic_backup.zip",
   "selbasic_abyss": "https://github.com/Mexi23/AssStS/raw/main/selena_basic_abyss.zip",
-  "selbasic_epic": "",
+  "selbasic_epic": "https://github.com/Mexi23/AssStS/raw/main/selena_basic_stun.zip",
   "selbasic_stun": "https://github.com/Mexi23/AssStS/raw/main/selena_basic_stun.zip",
   "selstar_backup": "https://github.com/Mexi23/AsStSB/raw/main/selena_star_backup.zip",
   "selstar_abyss": "https://github.com/Mexi23/AssStS/raw/main/selena_star_abyss.zip",
