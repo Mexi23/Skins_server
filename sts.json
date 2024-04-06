@@ -1159,9 +1159,9 @@
   "aaistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758440.png",
   "aaelite": "https://github.com/Mexi23/TankImages-LQ/raw/main/img_2023412192417.png",
  
-  "aabasic_backup": "",
+  "aabasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/aamon_basic_backup.zip",
   "aabasic_star": "",
-  "aaelite_backup": "",
+  "aaelite_backup": "https://github.com/Mexi23/AsStSB/raw/main/aamon_elite_backup.zip",
   "aaelite_star": "",
 
 
@@ -1170,15 +1170,14 @@
   "beneicollector": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_020224217.jpg",
   "beneiducati": "https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204712.png",
   "beneistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_020224314.jpg",
-   "beneispecial": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758498.png",
+  "beneispecial": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758498.png",
  
-  "benebasic_backup": "",
+  "benebasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/bene_basic_backup.zip",
   "benebasic_collector": "",
   "benebasic_ducati": "",
-  "benestar_backup": "",
+  "benestar_backup": "https://github.com/Mexi23/AsStSB/raw/main/bene_star_backup.zip",
   "benestar_collector": "",
-  "benespecial_collector": "",
-  "benespecial_backup": "",
+  "benespecial_backup": "https://github.com/Mexi23/AsStSB/raw/main/bene_spec_backup.zip",
   "benespecial_collector": "",
 
 
@@ -1189,15 +1188,15 @@
   "lingistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107815.png",
    "lingidragon": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107734.png",
  
-  "lingbasic_backup": "",
+  "lingbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/ling_basic_backup.zip",
   "lingbasic_kungfu": "",
   "lingbasic_collector": "",
-  "lingstar_backup": "",
+  "lingstar_backup": "https://github.com/Mexi23/AsStSB/raw/main/ling_stat_backup.zip",
   "lingstar_kungfu": "",
   "lingstar_collector": "",
   "lingdragon_kungfu": "",
   "lingdragon_collector": "",
-  "lingdragon_backup": "",
+  "lingdragon_backup": "https://github.com/Mexi23/AsStSB/raw/main/ling_dragon_backup.zip",
   "lingdragon_kungfu": "",
   "lingdragon_collector": "",
 
@@ -1208,20 +1207,17 @@
   "seliepic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758969.png",
   "selistun": "tohttps://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758630.png",
   "selistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758759.png",
-   "selielite": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758821.png",
+  "selielite": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758821.png",
  
-  "selbasic_backup": "",
+  "selbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/selena_basic_backup.zip",
   "selbasic_abyss": "",
   "selbasic_epic": "",
   "selbasic_stun": "",
-  "selstar_backup": "",
+  "selstar_backup": "https://github.com/Mexi23/AsStSB/raw/main/selena_star_backup.zip",
   "selstar_abyss": "",
   "selstar_epic": "",
   "selstar_stun": "",
-  "selelite_abyss": "",
-  "selelite_epic": "",
-  "selelite_stun": "",
-  "selelite_backup": "",
+  "selelite_backup": "https://github.com/Mexi23/AsStSB/raw/main/selena_Elgothic_backup.zip",
   "selelite_abyss": "",
   "selelite_epic": "",
   "selelite_stun": "",
@@ -1236,13 +1232,25 @@
   "lanizodiac": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193108189.png",
   "lanistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193108262.png",
   "lanichristmas": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193108404.png",
- 
-  "lanchristmas_backup": "",
+
+  "lanbasic_backup":"https://github.com/Mexi23/AsStSB/raw/main/lance_basic_backup.zip",
+ "lanbasic_hero":"",
+ "lanbasic_bren":"",
+ "lanbasic_epic":"",
+ "lanbasic_dragon":"",
+ "lanbasic_zodiac":"",
+   "lanstar_backup":"https://github.com/Mexi23/AsStSB/raw/main/lance_star_backup.zip",
+ "lanstar_hero":"",
+ "lanstar_bren":"",
+ "lanstar_epic":"",
+ "lanstar_dragon":"",
+ "lanstar_zodiac":"",
+  "lanchristmas_backup": "https://github.com/Mexi23/AsStSB/raw/main/lance_christ_backup.zip",
   "lanchristmas_hero": "",
   "lanchristmas_epic": "",
   "lanchristmas_dragon": "",
   "lanchristmas_zodiac": "",
-  "landragon_backup": "",
+  "landragon_backup": "https://github.com/Mexi23/AsStSB/raw/main/lance_dragon_backup.zip",
   "landragon_hero": "",
 
 
@@ -1252,10 +1260,10 @@
   "harliepic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_021214664.png",
   "harlistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_021214587.png",
  
-  "harlbasic_backup": "",
+  "harlbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/harley_basic_backup.zip",
   "harlbasic_collector": "",
   "harlbasic_epic": "",
-  "harlstar_backup": "",
+  "harlstar_backup": "https://github.com/Mexi23/AsStSB/raw/main/harley_star_backup.zip",
   "harlstar_collector": "",
   "harlstar_epic": "",
 
@@ -1268,16 +1276,16 @@
  "hayisummer":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180057636.png",
  "hayielite":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180057695.png",
  
-  "haybasic_backup": "",
+  "haybasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_basic_backup.zip",
   "haybasic_11": "",
   "haybasic_epic": "",
-  "haystar_backup": "",
+  "haystar_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_star_backup.zip",
   "haystar_11": "",
   "haystar_epic": "",
-  "hayelite_backup": "",
+  "hayelite_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_elite_backup.zip",
   "hayelite_11": "",
   "hayelite_epic": "",
-  "haysummer_backup": "",
+  "haysummer_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_summer_backup.zip",
   "haysummer_11": "",
   "haysummer_epic": "",
 
@@ -1296,29 +1304,29 @@
   "gusivenom": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_020609508.png",
   "gusiepic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_020609248.png",
  
-  "gusbasic_backup": "",
+  "gusbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/gusion_basic_backup.zip",
   "gusbasic_collector": "",
   "gusbasic_legend": "",
   "gusbasic_kof": "",
   "gusbasic_11": "",
-  "gusstar_backup": "",
+  "gusstar_backup": "https://github.com/Mexi23/AsStSB/raw/main/gusion_star_backup.zip",
   "gusstar_collector": "",
   "gusstar_legend": "",
   "gusstar_kof": "",
   "gusstar_11": "",
-  "guselite_backup": "",
+  "guselite_backup": "https://github.com/Mexi23/AsStSB/raw/main/gusion_elite_backup.zip",
   "guselite_collector": "",
   "guselite_legend": "",
   "guselite_kof": "",
   "guselite_11": "",
-  "gusvalentines_backup": "",
+  "gusvalentines_backup": "https://github.com/Mexi23/AsStSB/raw/main/gusion_valentines_backup.zip",
   "gusvalentines_collector": "",
   "gusvalentines_legend": "",
   "gusvalentines_kof": "",
   "gusvalentines_11": "",
-  "gusvenom_backup": "",
+  "gusvenom_backup": "https://github.com/Mexi23/AsStSB/raw/main/gusion_venom_backup.zip",
   "gusvenom_collector": "",
-  "gusepic_backup": "",
+  "gusepic_backup": "https://github.com/Mexi23/AsStSB/raw/main/gusion_epicSoul_backup.zip",
   "gusepic_collector": "",
 
 
@@ -1328,9 +1336,9 @@
   "karinikof": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_181425865.png",
   "karinielite": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_181425986.png",
  
-  "karinbasic_backup": "",
+  "karinbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/karina_basic_backup.zip",
   "karinbasic_kof": "",
-  "karinelite_backup": "",
+  "karinelite_backup": "https://github.com/Mexi23/AsStSB/raw/main/karina_elite_backup.zip",
   "karinelite_kof": "",
 
 
@@ -1341,13 +1349,13 @@
   "aluistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_201522182.png",
   "aluiseason": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_015857001.png",
  
-  "alubasic_backup": "",
+  "alubasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/alu_basic_backup.zip",
   "alubasic_starwars": "",
   "alubasic_legend": "",
-  "alustar_backup": "",
+  "alustar_backup": "https://github.com/Mexi23/AsStSB/raw/main/alu_star_backup.zip",
   "alustar_starwars": "",
   "alustar_legend": "",
-  "aluseason_backup": "",
+  "aluseason_backup": "https://github.com/Mexi23/AsStSB/raw/main/alu_season_backup.zip",
   "aluseason_starwars": "",
   "aluseason_legend": "",
 
@@ -1357,14 +1365,14 @@
   "sabiepic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195759344.png",
   "sabilegend": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195759259.png",
  
-  "sabbasic_backup": "",
+  "sabbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/saber_basic_backup.zip",
   "sabbasic_epic": "",
   "sabbasic_legend": "",
 
  
 
  
-  "fannibasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_201522356.png",
+  "fanibasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_201522356.png",
   "faniepic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200740146.png",
   "faniaspirant": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200740358.png",
   "faniaot": "https://github.com/Mexi23/February/raw/main/img_20241214368.png",
@@ -1374,28 +1382,34 @@
    "fanisummer": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200740018.png",
    "fanilightborn": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_200739923.png",
    "faniimperial": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_201522356.png",
- 
-  "fanstar_backup": "",
+
+
+ "fanbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/fanny_basic_backup.zip",
+  "fanbasic_epic": "",
+  "fanbasic_aspirant": "",
+  "fanbasic_aot": "",
+  "fanbasic_valentines": "",
+  "fanstar_backup": "https://github.com/Mexi23/AsStSB/raw/main/fanny_SeaStarLifeLB_backup.zip",
   "fanstar_epic": "",
   "fanstar_aspirant": "",
   "fanstar_aot": "",
   "fanstar_valentines": "",
-  "fansummer_backup": "",
+  "fansummer_backup": "https://github.com/Mexi23/AsStSB/raw/main/fanny_SeaStarLifeLB_backup.zip",
   "fansummer_epic": "",
   "fansummer_aspirant": "",
   "fansummer_aot": "",
   "fansummer_valentines": "",
-  "fanlightborn_backup": "",
+  "fanlightborn_backup": "https://github.com/Mexi23/AsStSB/raw/main/fanny_SeaStarLifeLB_backup.zip",
   "fanlightborn_epic": "",
   "fanlightborn_aspirant": "",
   "fanlightborn_aot": "",
   "fanlightborn_valentines": "",
-  "fanseason_backup": "",
+  "fanseason_backup": "https://github.com/Mexi23/AsStSB/raw/main/fanny_SeaStarLifeLB_backup.zip",
   "fanseason_epic": "",
   "fanseason_aspirant": "",
   "fanseason_aot": "",
   "fanseason_valentines": "",
-  "fanimperial_backup": "",
+  "fanimperial_backup": "https://github.com/Mexi23/AsStSB/raw/main/fanny_imperial_backup.zip",
   "fanimperial_epic": "",
   "fanimperial_aspirant": "",
   "fanimperial_aot": "",
@@ -1406,7 +1420,10 @@
   "zibasic": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193312.png",
    "ziloyal": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193458.png",
    "ziielite": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193447.png",
- 
+
+   "zibasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/zilong_eliteB_backup.zip",
+  "ziloyal_backup": "https://github.com/Mexi23/AsStSB/raw/main/zilong_loyalS_backup.zip",
+  "zielite_backup": "https://github.com/Mexi23/AsStSB/raw/main/zilong_blazing_backup.zip",
   "zibasic_collector": "",
   "ziloyal_collector": "",
   "zielite_collector": "",
@@ -1416,7 +1433,9 @@
  
   "natbasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107404.png",
    "natielite": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107290.png",
- 
+
+ "natbasic_backup":"https://github.com/Mexi23/AsStSB/raw/main/natalia_basic_backup.zip",
+ "natspecial_backup":"https://github.com/Mexi23/AsStSB/raw/main/natalia_elite_backup.zip",
   "natbasic_special": "",
   "natelite_special": "",
 
@@ -1424,15 +1443,17 @@
 
  
   "helibasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_181426432.png",
- 
-  "helibasic_zodiac": "",
+
+ "helbasic_backup":"https://github.com/Mexi23/AsStSB/raw/main/helcurt_basic_backup.zip",
+  "helbasic_zodiac": "",
 
 
  
  
   "aribasic": "https://github.com/Mexi23/DefAss/raw/main/img_2023916182729.png",
- 
-  "aristar": ""
+
+ "arbasic_backup":"https://github.com/Mexi23/AsStSB/raw/main/arlott_basic_backup.zip",
+  "arbasic_istar": ""
  
 
  
