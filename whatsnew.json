@@ -1,28 +1,27 @@
 {
-
-"date":"April 8, 2024",
-"skins":"- Fredrin Sparkle
-- Melissa Sparkle
-- Estes Sparkle
-- Moscov Allstar
-- Lunox Allstar
-
-- Cici basic skin
-- Aurora Zodiac
-- Aurora KOF
-- Silvanna Valentines
-- Granger Valentines
-- Novaria Starlight
-- Angela Annual Starlight
-- Alucard Legend Updated
-- Gatot Epic
-
-- All ATTACK ON TITANS",
-"recalls":"T",
-"emotes":"Try",
-"trails":"Ugh",
-"eliminations":"Ugh",
-"respawns":"Ugh"
-
-
+  "date": "April 8, 2024",
+  "skins": [
+    "- Fredrin Sparkle",
+    "- Melissa Sparkle",
+    "- Estes Sparkle",
+    "- Moscov Allstar",
+    "- Lunox Allstar",
+    "",
+    "- Cici basic skin",
+    "- Aurora Zodiac",
+    "- Aurora KOF",
+    "- Silvanna Valentines",
+    "- Granger Valentines",
+    "- Novaria Starlight",
+    "- Angela Annual Starlight",
+    "- Alucard Legend Updated",
+    "- Gatot Epic",
+    "",
+    "- All ATTACK ON TITANS"
+  ],
+  "recalls": "T",
+  "emotes": "Try",
+  "trails": "Ugh",
+  "eliminations": "Ugh",
+  "respawns": "Ugh"
 }
