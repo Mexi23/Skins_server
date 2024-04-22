@@ -2,7 +2,7 @@
 
 
 
-  "date": "April 13, 2024",
+  "date": "April 24, 2024",
   "ss1": "- Paquito KOF\n- Masha KOF\n- Valir KOF\n- Hayabusa Exorcist\n- Granger Exorcist\n- Alpha Collector\n- Ruby Special\n- Khaleed Epic\n- Nolan Starlight\n\n- Advance Completed Skins!",
   "fixed":"- Johnson Wrecking Revamp\n- Yin Backup",
   "recalls": "- 15 Items",
@@ -19,7 +19,6 @@
 "ibackup":"https://github.com/Mexi23/GitInjector/raw/main/20240307_195532.png",
 
 
- "esibasic":"https://github.com/Mexi23/SuppImageLQ/raw/main/img_2022727125226.png",
   "paibasic": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192533.png",
   "paifist": "https://github.com/Mexi23/2023-skins/raw/main/img_2022112021113_11zon.png",
   "paistar": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272619263.png",
@@ -27,6 +26,17 @@
   "paipacquiao": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192545.png",
   "paicollector": "https://github.com/Mexi23/UpDated/raw/main/img_20235322337.png",
 "paikof":"https://github.com/Mexi23/april2024/raw/main/Rounded_20240423_001532.png",
+
+  
+  "pacbackup": "https://github.com/Mexi23/april2024/raw/main/paquito_def_backup.zip",
+  "pacbasic": "Upcoming!",
+  "pacfist": "https://github.com/Mexi23/2023-skins/raw/main/paquitoSPEClight.zip",
+  "pacstar": "https://github.com/Mexi23/Fighter-1/raw/main/PaquitoStarlight.zip",
+  "pacspecial": "https://github.com/Mexi23/Fighter-1/raw/main/PaquitoSpecial.zip",
+  "pacpacquiao": "https://github.com/Mexi23/fighterD/raw/main/paquito_def_pac.zip",
+  "paccollector": "https://github.com/Mexi23/fighterD/raw/main/paquito_def_collector.zip",
+"packof":"https://github.com/Mexi23/april2024/raw/main/paquito_def_kof.zip",
+
   
   
   
@@ -90,10 +100,31 @@
   "grctransformer":"https://github.com/Mexi23/Marksman/raw/main/GrangerTransformers.zip",
   "grccollector":"https://github.com/Mexi23/Mm/raw/main/granger_def_collector.zip",
   "grclegend":"https://github.com/Mexi23/Mm/raw/main/granger_def_legend.zip",
-"grcexorcist":"https://github.com/Mexi23/april2024/raw/main/granger_def_exorcist.zip"
+"grcexorcist":"https://github.com/Mexi23/april2024/raw/main/granger_def_exorcist.zip",
 
   
  
+  "hayibasic":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180057751.png",
+  "hayielite":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180057695.png",
+  "hayistar":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180910064.png",
+ "hayisummer":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180057636.png",
+ "hayiannual":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180057573.png",
+  "hayiepic":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180057498.png",
+  "hayid11":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195758299.png",
+  "hayitechie":"https://github.com/Mexi23/Assasins_defS/raw/main/img_202391223549.png",
+"hayiexorcist":"https://github.com/Mexi23/april2024/raw/main/Rounded_20240416_211929.png",
+  
+   "haycbackup":"https://github.com/Mexi23/NewBackupS/raw/main/hayabusa_Def_backup.zip",
+  "haycbasic":"Upcoming!",
+  "haycelite":"https://github.com/Mexi23/ASSASINS/raw/main/HayabusaElite.zip",
+  "haycstar":"https://github.com/Mexi23/Assasins_defS/raw/main/hayabusa_def_starl.zip",
+ "haycsummer":"https://github.com/Mexi23/Assasins_defS/raw/main/hayabusa_def_summer.zip",
+ "haycannual":"https://github.com/Mexi23/Assasins_defS/raw/main/hayabusa_def_AnnualEx.zip",
+  "haycepic":"https://github.com/Mexi23/Assasins_defS/raw/main/hayabusa_def_EpicShadow.zip",
+  "haycd11":"https://github.com/Mexi23/Def_Sounds/raw/main/hayabusa_def_shura.zip",
+  "hayctechie":"https://github.com/Mexi23/Assasins_defS/raw/main/hayabusa_def_Elitetechi.zip",
+"haycexorcist":"https://github.com/Mexi23/april2024/raw/main/haya_def_exorcist.zip"
+  
   
 }
 
