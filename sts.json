@@ -1188,13 +1188,15 @@
   "lingistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107815.png",
    "lingidragon": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_193107734.png",
  
-  "lingbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/ling_basic_backup.zip",
+  "lingbasic_backup": "https://github.com/Mexi23/GstSN/raw/main/ling_basStar_backup.zip",
   "lingbasic_kungfu": "https://github.com/Mexi23/AssStS/raw/main/ling_basic_kungfu.zip",
   "lingbasic_collector": "https://github.com/Mexi23/AssStS/raw/main/ling_basic_collector.zip",
-  "lingstar_backup": "https://github.com/Mexi23/AsStSB/raw/main/ling_stat_backup.zip",
+"lingbasic_mworld":"https://github.com/Mexi23/GstSN/raw/main/ling_basic_mworld.zip",
+ "lingstar_backup": "https://github.com/Mexi23/GstSN/raw/main/ling_basStar_backup.zip",
   "lingstar_kungfu": "https://github.com/Mexi23/AssStS/raw/main/ling_star_kungfu.zip",
   "lingstar_collector": "https://github.com/Mexi23/AssStS/raw/main/ling_star_collector.zip",
-  "lingdragon_backup": "https://github.com/Mexi23/AsStSB/raw/main/ling_dragon_backup.zip",
+"lingstar_mworld":"https://github.com/Mexi23/GstSN/raw/main/ling_star_mworld.zip",
+ "lingdragon_backup": "https://github.com/Mexi23/AsStSB/raw/main/ling_dragon_backup.zip",
   "lingdragon_kungfu": "Updating!",
   "lingdragon_collector": "https://github.com/Mexi23/AssStS/raw/main/ling_dragon_collector.zip",
 
@@ -1254,6 +1256,15 @@
 
 
  
+ "hanzibasic":"",
+ "hanzielite":"",
+ "hanzispecial":"",
+
+ "hanzbasic_backup":"https://github.com/Mexi23/GstSN/raw/main/hanzo_backupAll.zip",
+ "hanzbasic_elite":"https://github.com/Mexi23/GstSN/raw/main/hanzo_basic_elite.zip",
+ "hanzbasic_special":"https://github.com/Mexi23/GstSN/raw/main/hanzo_basic_special.zip",
+ 
+ 
   "harlibasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_021214629.png",
   "harlicollector": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_021214507.png",
   "harliepic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_021214664.png",
@@ -1274,20 +1285,24 @@
   "hayistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180910064.png",
  "hayisummer":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180057636.png",
  "hayielite":"https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_180057695.png",
+"hayiannual":"",
  
   "haybasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_basic_backup.zip",
   "haybasic_11": "https://github.com/Mexi23/AssStS/raw/main/hayabusa_basic_11.zip",
   "haybasic_epic": "https://github.com/Mexi23/AssStS/raw/main/haya_basic_epic.zip",
-  "haystar_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_star_backup.zip",
+  "haybasic_annual":"https://github.com/Mexi23/GstSN/raw/main/haya_basic_annual.zip",
+ "haystar_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_star_backup.zip",
   "haystar_11": "https://github.com/Mexi23/AssStS/raw/main/hayabusa_star_11.zip",
   "haystar_epic": "https://github.com/Mexi23/AssStS/raw/main/hayabusa_star_epic.zip",
-  "hayelite_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_elite_backup.zip",
+"haystar_annual":"https://github.com/Mexi23/GstSN/raw/main/haya_star_annual.zip",
+ "hayelite_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_elite_backup.zip",
   "hayelite_11": "https://github.com/Mexi23/AssStS/raw/main/hayabusa_elite_summer.zip",
   "hayelite_epic": "https://github.com/Mexi23/AssStS/raw/main/haya_elite_epic.zip",
-  "haysummer_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_summer_backup.zip",
+ "hayelite_annual":"https://github.com/Mexi23/GstSN/raw/main/haya_elite_annual.zip",
+ "haysummer_backup": "https://github.com/Mexi23/AsStSB/raw/main/haya_summer_backup.zip",
   "haysummer_11": "https://github.com/Mexi23/AssStS/raw/main/hayabusa_summer_11.zip",
   "haysummer_epic": "https://github.com/Mexi23/AssStS/raw/main/haya_summer_epic.zip",
-
+"haysummer_annual":"https://github.com/Mexi23/GstSN/raw/main/haya_summer_annual.zip",
 
 
 
@@ -1334,12 +1349,17 @@
   "karinibasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_181426165.png",
   "karinikof": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_181425865.png",
   "karinielite": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_181425986.png",
+"kariniepic":"",
+ "karinizodiac":"",
  
-  "karinbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/karina_basic_backup.zip",
-  "karinbasic_kof": "https://github.com/Mexi23/AssStS/raw/main/kof_bloodmoon_kof.zip",
-  "karinelite_backup": "https://github.com/Mexi23/AsStSB/raw/main/karina_elite_backup.zip",
-  "karinelite_kof": "https://github.com/Mexi23/AssStS/raw/main/karina_spider_kof.zip",
-
+  "karinbasic_backup": "https://github.com/Mexi23/GstSN/raw/main/karina_backup.zip",
+ "karinbasic_epic":"https://github.com/Mexi23/GstSN/raw/main/karina_basic_epic.zip",
+ "karinbasic_zodiac":"https://github.com/Mexi23/GstSN/raw/main/karina_basic_zodiac.zip",
+ "karinbasic_kof": "https://github.com/Mexi23/GstSN/raw/main/karina_basic_kof.zip",
+  "karinelite_backup": "https://github.com/Mexi23/GstSN/raw/main/karina_backup.zip",
+  "karinelite_kof": "https://github.com/Mexi23/GstSN/raw/main/karina_spider_kof.zip",
+ "karinelite_epic":"https://github.com/Mexi23/GstSN/raw/main/karina_spider_epic.zip",
+ "karinelite_zodiac":"https://github.com/Mexi23/GstSN/raw/main/karina_spider_zodiac.zip",
 
  
   "aluibasic": "https://github.com/Mexi23/50kbimage-ass/raw/main/img_20227219612.jpg",
@@ -1347,28 +1367,35 @@
   "aluilegend": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_015856958.png",
   "aluistar": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_201522182.png",
   "aluiseason": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230130_015857001.png",
+"aluiepic":"",
  
-  "alubasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/alu_basic_backup.zip",
-  "alubasic_starwars": "https://github.com/Mexi23/Upgraded-Assasin-skin/raw/main/Alucard%20Basic%20TO%20STAR%20.zip",
-  "alubasic_legend": "https://github.com/Mexi23/AssStS/raw/main/alu_basic_legend.zip",
+  "alubasic_backup": "https://github.com/Mexi23/GstSN/raw/main/alu_basSea_backup.zip",
+ "alubasic_epic":"https://github.com/Mexi23/GstSN/raw/main/alu_basic_epic.zip",
+ "alubasic_starwars": "https://github.com/Mexi23/GstSN/raw/main/alu_basic_starwars.zip",
+  "alubasic_legend": "https://github.com/Mexi23/GstSN/raw/main/alu_basic_legemd.zip",
   "alustar_backup": "https://github.com/Mexi23/AsStSB/raw/main/alu_star_backup.zip",
   "alustar_starwars": "https://github.com/Mexi23/Upgraded-Assasin-skin/raw/main/Alucard%20STARLIGHT%20TO%20STAR.zip",
   "alustar_legend": "https://github.com/Mexi23/AssStS/raw/main/alucard_star_legend.zip",
-  "aluseason_backup": "https://github.com/Mexi23/AsStSB/raw/main/alu_season_backup.zip",
-  "aluseason_starwars": "https://github.com/Mexi23/Upgraded-Assasin-skin/raw/main/Alucard%20SEASON%20TO%20STAT.zip",
-  "aluseason_legend": "https://github.com/Mexi23/AssStS/raw/main/alucard_season_legend.zip",
-
+  "aluseason_backup": "https://github.com/Mexi23/GstSN/raw/main/alu_basSea_backup.zip",
+  "aluseason_starwars": "https://github.com/Mexi23/GstSN/raw/main/alu_season_starwars.zip",
+  "aluseason_legend": "https://github.com/Mexi23/GstSN/raw/main/alu_season_legend.zip",
+"aluseason_epic":"https://github.com/Mexi23/GstSN/raw/main/alu_season_epic.zip",
 
  
   "sabibasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195759114.png",
   "sabiepic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195759344.png",
   "sabilegend": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_195759259.png",
+"sabisaber":"",
+ "sabisilver":"",
  
-  "sabbasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/saber_basic_backup.zip",
-  "sabbasic_epic": "https://github.com/Mexi23/AssStS/raw/main/saber_basic_onimaru.zip",
+  "sabbasic_backup": "https://github.com/Mexi23/GstSN/raw/main/saber_basSilver_backup.zip",
+ "sabbasic_saber":"https://github.com/Mexi23/GstSN/raw/main/saber_basic_saber.zip",
+ "sabbasic_epic": "https://github.com/Mexi23/AssStS/raw/main/saber_basic_onimaru.zip",
   "sabbasic_legend": "https://github.com/Mexi23/AssStS/raw/main/saber_basic_legend.zip",
-
- 
+"sabsilver_backup":"https://github.com/Mexi23/GstSN/raw/main/saber_basSilver_backup.zip",
+ "sabsilver_saber":"https://github.com/Mexi23/GstSN/raw/main/saber_silver_saber.zip",
+ "sabsilver_epic":"https://github.com/Mexi23/GstSN/raw/main/saber_silver_epic.zip",
+ "sabsilver_legend":"https://github.com/Mexi23/GstSN/raw/main/saber_silver_legend.zip",
 
  
   "fanibasic": "https://github.com/Mexi23/assasin-image-compress/raw/main/img_20230131_201522356.png",
@@ -1420,13 +1447,19 @@
    "ziiloyal": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193458.png",
    "ziielite": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193447.png",
 "ziicollector":"https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272619358.png",
+"ziilunar":"",
+ "ziiepic":"",
  
-   "zibasic_backup": "https://github.com/Mexi23/AsStSB/raw/main/zilong_eliteB_backup.zip",
-  "ziloyal_backup": "https://github.com/Mexi23/AsStSB/raw/main/zilong_loyalS_backup.zip",
+   "zibasic_backup": "https://github.com/Mexi23/GstSN/raw/main/zilong_BasLoyal_Backup.zip",
+  "ziloyal_backup": "https://github.com/Mexi23/GstSN/raw/main/zilong_BasLoyal_Backup.zip",
   "zielite_backup": "https://github.com/Mexi23/AsStSB/raw/main/zilong_blazing_backup.zip",
-  "zibasic_collector": "https://github.com/Mexi23/AssStS/raw/main/zilong_elite_collector.zip",
-  "ziloyal_collector": "https://github.com/Mexi23/AssStS/raw/main/zilong_loyal_collector.zip",
-  "zielite_collector": "https://github.com/Mexi23/AssStS/raw/main/zilong_blazing_collector.zip",
+  "zibasic_collector": "https://github.com/Mexi23/GstSN/raw/main/zilong_basic_collector.zip",
+ "zibasic_lunar":"https://github.com/Mexi23/GstSN/raw/main/zilong_basic_lunar.zip",
+ "zibasic_epic":"https://github.com/Mexi23/GstSN/raw/main/zilong_basic_epic.zip",
+ "ziloyal_collector": "https://github.com/Mexi23/GstSN/raw/main/zilong_loyal_collector.zip",
+ "ziloyal_epic":"https://github.com/Mexi23/GstSN/raw/main/zilong_loyal_epic.zip",
+ "ziloyal_lunar":"https://github.com/Mexi23/GstSN/raw/main/zilong_loyal_lunar.zip",
+ "zielite_collector": "https://github.com/Mexi23/AssStS/raw/main/zilong_blazing_collector.zip",
 
 
  
