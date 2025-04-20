@@ -18,6 +18,7 @@
   "guinevere": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_215053.png",
   "hilda": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_215128.png",
   "jawhead": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_215118.png",
+  "kalea":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/kalea.png",
   "khaleed": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212204.png",
   "lapu": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_215122.png",
   "masha": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212217.png",
@@ -76,13 +77,13 @@
   "chilibra": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202341302851.png",
 
   
-  "chcbackup": "https://github.com/Mexi23/NewSkins/raw/main/chou_backup.zip",
+  "chcbackup": "https://github.com/Mexi23/April_updt/raw/refs/heads/main/chou_backup.zip",
   "chcbasic": "https://github.com/Mexi23/Fighter-1/raw/main/ChouBasic.zip",
   "chcelite": "https://github.com/Mexi23/fighterD/raw/main/chou_def_eliteN.zip",
   "chcstar": "https://github.com/Mexi23/Fighter-1/raw/main/ChouStarlight.zip",
   "chcspecial": "https://github.com/Mexi23/fighterD/raw/main/chou_def_specialN.zip",
   "chcepic": "https://github.com/Mexi23/fighterD/raw/main/chou_def_epicN.zip",
-  "chckof": "https://github.com/Mexi23/NewSkins/raw/main/chou_kof.zip",
+  "chckof": "https://github.com/Mexi23/April_updt/raw/refs/heads/main/chou_kof.zip",
   "chcecho": "https://github.com/Mexi23/Def_Sounds/raw/main/chou_def_echo.zip",
   "chchero": "https://github.com/Mexi23/fighterD/raw/main/chou_def_hero.zip",
   "chcstun": "https://github.com/Mexi23/fighterD/raw/main/chou_default_stun.zip",
@@ -400,10 +401,11 @@
   "laccollector": "https://github.com/Mexi23/JanuaryV2/raw/main/lapu_def_collector.zip",
   
 "lucibasic":"https://github.com/Mexi23/2025Img/raw/refs/heads/main/Rounded_20250201_192509.png",
-
-  "luccbackup":"https://github.com/gg0521/gg/raw/main/lukas_backup.zip",
+"lucinaruto":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/naruto.png",
+  
+  "luccbackup":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/lukas_backup.zip",
   "luccbasic":"https://github.com/gg0521/gg/raw/main/lukas_basic.zip",
-
+"luccnaruto":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/lukas_naruto.zip",
   
 
   "ruibasic": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192749.png",
@@ -570,7 +572,12 @@
   "cicbackup":"https://github.com/Mexi23/February/raw/main/cici_def_backup.zip",
     "cicbasic": "https://github.com/Mexi23/February/raw/main/cici_def_basic.zip"
   
+"kalibasic":"",
+  "kalisakura":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/sakura.png",
 
+  "kalcbackup":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/kalea_backup.zip",
+  "kalcbasic":"",
+  "kalcsakura":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/kalea_sakura.zip",
 
   
 }
