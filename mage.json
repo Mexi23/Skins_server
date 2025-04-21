@@ -204,6 +204,7 @@
  "goiseason":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202272922325.png",
   "goilegend":"https://github.com/Mexi23/New-Skins-June-8/raw/main/Rounded_20240614_134117.png",
 "goiepic":"https://github.com/Mexi23/august/raw/main/Rounded_20240829_201613.png",
+"goiimperator":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/gord.png",
   
   "gocbackup":"https://github.com/Mexi23/MageD/raw/main/gord_def_backup.zip",
 "gocbasic":"Upcoming!", 
@@ -212,7 +213,8 @@
  "gocseason":"https://github.com/Mexi23/Mage/raw/main/GordSeason.zip",
   "goclegend":"https://github.com/Mexi23/New-Skins-June-8/raw/main/Gord%20Legend%20Revamp.zip",
   "gocepic":"https://github.com/Mexi23/august/raw/main/gord_epic.zip",
-
+"gocimperator":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/gord_imperator.zip",
+  
 "haibasic":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202272922345.png", 
 "haielite":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202272922350.png",
 "hailunar":"https://github.com/Mexi23/MageSkinSkin/raw/main/img_20235804445.png",
@@ -300,11 +302,13 @@
 
   "noibasic":"https://github.com/Mexi23/mage-skin-to-skin/raw/main/img_2023421183726.png", 
  "noistar":"https://github.com/Mexi23/February/raw/main/img_202414155139.png",
-
-"nocbackup":"https://github.com/Mexi23/skinbackup/raw/main/novaria_backup.zip",
+"noidragon":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/novaria.png",
+  
+"nocbackup":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/novaria_backup.zip",
 "nocbasic":"Upcoming!", 
  "nocstar":"https://github.com/Mexi23/skinupdate/raw/main/novaria_starlight.zip",
-
+"nocdragon":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/novaria_dragon.zip",
+  
 
   "luoibasic":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729233641.png", 
 "luoielite":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202272923371.png",
@@ -373,6 +377,7 @@
 "valeicollector":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234146.png",
   "valeihero":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234122.png",
 "valeiannual":"https://github.com/Mexi23/October2024/raw/refs/heads/main/Rounded_20241026_154728.png",
+"valeigaara":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/vale.png",
   
 "valecbackup":"https://github.com/Mexi23/Updated_skins/raw/main/vale_backup.zip",
 "valecbasic":"https://github.com/Mexi23/april2024/raw/main/vale_basic.zip!", 
@@ -382,12 +387,14 @@
 "valeccollector":"https://github.com/Mexi23/Updated_skins/raw/main/vale_collector.zip",
   "valechero":"https://github.com/Mexi23/Updated_skins/raw/main/vale_hero.zip",
 "valecannual":"https://github.com/Mexi23/October2024/raw/refs/heads/main/vale_annual.zip",
-
+"valecgaara":"https://github.com/Mexi23/April_updt/raw/refs/heads/main/vale_gaara.zip",
+  
 "valenibasic":"https://github.com/Mexi23/MageImageLQ/raw/main/img_2022729234157.png", 
 "valenielite":"https://github.com/Mexi23/MageImageLQ/raw/main/img_202341315441.png",
 "valenistar":"https://github.com/Mexi23/MageSkinSkin/raw/main/img_20235813231.png",
 "valenicollector":"https://github.com/Mexi23/New-Skins-June-8/raw/main/Rounded_20240614_133953.png",
 "valenimsc":"https://github.com/Mexi23/New-Skins-June-8/raw/main/Rounded_20240614_134143.png",
+
   
 "valencbackup":"https://github.com/Mexi23/MageSkinSkin/raw/main/valentina_def_backup.zip",
 "valencbasic":"https://github.com/Mexi23/Mage/raw/main/ValentinaBasic.zip", 
