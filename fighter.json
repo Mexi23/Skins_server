@@ -83,7 +83,7 @@
   "chcstar": "https://github.com/Mexi23/Fighter-1/raw/main/ChouStarlight.zip",
   "chcspecial": "https://github.com/Mexi23/fighterD/raw/main/chou_def_specialN.zip",
   "chcepic": "https://github.com/Mexi23/fighterD/raw/main/chou_def_epicN.zip",
-  "chckof": "https://github.com/Mexi23/April_updt/raw/refs/heads/main/chou_kof.zip",
+  "chckof": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/chouKOF.zip",
   "chcecho": "https://github.com/Mexi23/Def_Sounds/raw/main/chou_def_echo.zip",
   "chchero": "https://github.com/Mexi23/fighterD/raw/main/chou_def_hero.zip",
   "chcstun": "https://github.com/Mexi23/fighterD/raw/main/chou_default_stun.zip",
@@ -104,7 +104,7 @@
   "dycbasic": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_basic.zip",
   "dycstar": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_starlight.zip",
   "dycepic": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_venom.zip",
-  "dyckof": "https://github.com/Mexi23/NewSkins/raw/main/dyroth_kof.zip",
+  "dyckof": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/dyrothKOF.zip",
   "dyccollector": "https://github.com/Mexi23/March_new/raw/refs/heads/main/dyroth_collector.zip",
 "dycgon":"https://github.com/Mexi23/March_new/raw/refs/heads/main/dyroth_gon.zip",
 
@@ -237,6 +237,7 @@
   "badispecial": "https://github.com/Mexi23/images-fighters/raw/main/img_2022725234040.png",
     "badicollector": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725233832.jpg",
 "badizodiac":"https://github.com/Mexi23/50kb-images/raw/main/img_2022725234046.jpg",
+"badisteelarm":"https://raw.githubusercontent.com/Mexi23/AugustUpdate/refs/heads/main/badang%20Portrait.png",
   
   "badcbackup": "https://github.com/Mexi23/fighterD/raw/main/badang_def_backup.zip",
   "badcbasic": "Upcoming!",
@@ -245,7 +246,7 @@
   "badczodiac":"https://github.com/missnapokita/june-2024/raw/main/badang%20zodiac.zip",
   "badcspecial": "https://github.com/Mexi23/Fighter-1/raw/main/BadangSpecial.zip",
   "badccollector": "https://github.com/missnapokita/june-2024/raw/main/badang%20collector.zip",
-
+"badcsteelarm":"https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/badangSteelArm.zip",
 
   
   "balibasic": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272523493.png",
@@ -310,11 +311,11 @@
   "freineobeast": "https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204725.png",
 "freisparkle":"https://github.com/Mexi23/GitInjector/raw/main/Rounded_20240324_163751.png",
   
-  "frecbackup": "https://github.com/Mexi23/GitInjector/raw/main/fredrin_backup.zip",
+  "frecbackup": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/fredrinBackup.zip",
   "frecbasic": "https://github.com/Mexi23/GitInjector/raw/main/fredrin_def_basic.zip",
   "frecelite": "https://github.com/Mexi23/new-added/raw/main/fredrinELITE.zip",
-  "frecneobeast": "https://github.com/Mexi23/fighterD/raw/main/fredrin_def_neobeast.zip",
-"frecsparkle":"https://github.com/Mexi23/July_skins/raw/main/fredrin_sparkle.zip",
+  "frecneobeast": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/fredrinNeo.zip",
+"frecsparkle":"https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/fredrinSparkle.zip",
 
   
   "guibasic": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132836.png",
@@ -477,7 +478,7 @@
   "thcelite": "https://github.com/Mexi23/Fighter-1/raw/main/ThamuzElite.zip",
   "thcstar": "https://github.com/Mexi23/UpDated/raw/main/Thamuz_Starlight.zip",
   "thcspecial": "https://github.com/Mexi23/Fighter-1/raw/main/ThamuzSpecial.zip",
-  "thckungfu": "https://github.com/Mexi23/fighterD/raw/main/thamuz_def_kungfu.zip",
+  "thckungfu": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/thamuzGeneralKai.zip",
 
 
 
@@ -543,6 +544,7 @@
   "xbid11": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272619325.png",
   "xbitransformer": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193212.png",
 "xbimcgg":"https://github.com/Mexi23/March_new/raw/refs/heads/main/Rounded_20250326_143656.png",
+  "xbiinvolker":"https://raw.githubusercontent.com/Mexi23/AugustUpdate/refs/heads/main/xborg%20port.png",
   
   "xbcbackup": "https://github.com/Mexi23/March_new/raw/refs/heads/main/xborg_backup.zip",
   "xbcbasic": "Upcoming!",
@@ -551,6 +553,7 @@
   "xbcd11": "https://github.com/Mexi23/Def_Sounds/raw/main/xborg_def_tesla.zip",
   "xbctransformer": "https://github.com/Mexi23/fighterD/raw/main/Xb_def_trans.zip",
   "xbcmcgg":"https://github.com/Mexi23/March_new/raw/refs/heads/main/xborg_mcgg.zip",
+  "xbcinvolker":"https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/xborgInvolkerFlame.zip",
   
   "yiibasic": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726193225.png",
   "yiiaot": "https://github.com/Mexi23/February/raw/main/img_202412143558.png",
